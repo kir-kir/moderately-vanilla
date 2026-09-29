@@ -1,6 +1,3902 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".kilo/worktrees/blossom-velvet/config/Underlay/underlay.json"
+hash = "c376c1013b7b2322b7807081b7b2079cf1d1cd4a03b24598d45c55dfc8971f60"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/WildfireGender/client.toml"
+hash = "7564c907063623ced28414405931fbfa6803f3b88fa0071e8bca9b16659a1ad4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/aaa_particles-client.toml"
+hash = "d6971f9b2cce72a341abe5c586f0c04a160a75a8dc67f4c68e2a6c061fe83061"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/abridged.json"
+hash = "52c1aa85c25997e0a1e2e62d916269d93df4fbd4def36e5e22187a4d02061e33"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/accessories.json5"
+hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/accessories_compat.json5"
+hash = "f121e63f366d1aaa0f2a7bbe030d9f9e5473aeaa72eb2898493fd0292703f233"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/additionalplacements-client.toml"
+hash = "2c92874ba7e68f4d11680fbb1ab7c06e3505e51f63c587a63c31d87e328cdd07"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/additionalplacements-common.toml"
+hash = "328a717798fa2633a7481e574177619d2fa6a996e74a154e1700764dd5b65a68"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/additionalplacements-server.toml"
+hash = "cad258bdedab137802b79571fc02f6e3f3831dbd00f93ea2f3574f04bcff58ad"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/additionalplacements-startup.toml"
+hash = "36a049fd9282705c097600342dd15b9747498c1bd734edb32a5deecc186cd8f1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/aggroindicator-client.json"
+hash = "53abe528c21d53c2f39229f8c2858c6d14e4e49b8faa57711dcc5192ab529a99"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/alloy_smelter-common.toml"
+hash = "d66605d039a667da791470d976f50d5fa743a70635923aaed361cc8ef03517e1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/almostunified/debug.json"
+hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/almostunified/duplicates.json"
+hash = "b70f57eadf6eec0ce43acd4c441f08feac1432826e04cb8e2736a73997c20c08"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/almostunified/placeholders.json"
+hash = "43733b207b9f0238c7a5bec47f19e8fd5bec80499b286e0ac4994671702dfed9"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/almostunified/startup.json"
+hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/almostunified/tags.json"
+hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/almostunified/unification/materials.json"
+hash = "09f0eda4f47d2dc321e9379b59a0f5e0c6809a51ba299ee50249e64dc7ba8943"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/appleskin-client.toml"
+hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/archers/effects.json"
+hash = "eac16ab70581aad79f7174aa8c1064af0cecfd1ef90ab6dd7742ebc1eada367b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/archers/equipment.json"
+hash = "2bf86fa5d0be8ba1aec135bf98de31bdf797c94987e564ba9d48d399a8a8708f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/archers/summoned_entities.json"
+hash = "3b2d4f98c7f593c918145a0f76ffad1a7b412dd2d9433dcea3bbca17358e5800"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/archers/tweaks.json"
+hash = "8f7e16c3a3b2ddd496a7fd12cfdedae2874e9340820dde5db4bfffb53823d6c6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/archers/villages.json"
+hash = "4408dae1e07e575518233ff8a53fbf918049f15ed51a0b570ea231e6dd85aa2e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/archers_expansion/effects_v3.json"
+hash = "14b760fb10b25d5bb2fd977217c6b06790b3d1a490b95d79277ba54056364eb4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/archers_expansion/equipment_v4.json"
+hash = "d926060232d91fbf491bb572c9aec222e8d71e2d12b71ae08ad5e8488fbbebed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/archers_expansion/summoned_entities.json"
+hash = "8e89d6bdcae6632157d7813b52b2e87beaba3f6bfe78ddcb31939be26ac01358"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/archers_expansion/tweaks.json"
+hash = "56bd60dcbdae3784f383d7192bea4166d083f8bec2ac14bf65e557cdcd2d7fd6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/artifactdelight-common.toml"
+hash = "7b35a530f4f1ce6988f20d250c94733deee409938792b545c5d55fd363d2eba5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/artifacts/client.toml"
+hash = "fcc980a4e12e76dc42a3bc27db9fe237f628c63e2544048802b239a2a989c44c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/artifacts/general.toml"
+hash = "b73793e634d1a441c12ed1c3d02ec074b2f19a24766512f78ff0b9d83cf9768b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/artifacts/items.toml"
+hash = "85218a5af8b311d663c58a6c9b69c98eebd92fb8d1b8aaffab4118aa22519cdf"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/generic.attack_burning_duration.json"
+hash = "2b35471191429cb7b18be98f70f23a3ea36ddf0d984a5a3f6a492ce3b3a1dba5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/generic.drinking_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/generic.eating_speed.json"
+hash = "ea105c9bb954b8cc9e60749b9a304a1ff80fa0c80873099c569e94c6ea5d6c67"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/generic.flatulence.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/generic.invincibility_ticks.json"
+hash = "f2b86540287515290388f49a96e00e5e9ae90abe7332b9beeb44870d0e30c206"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/generic.mount_speed.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/generic.movement_speed_on_snow.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/generic.slip_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/generic.sprinting_speed.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/generic.sprinting_step_height.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/player.entity_experience.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/artifacts/player.villager_reputation.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/botanypots/growth.json"
+hash = "1d756e18fecb9d13b75a7022c006b3c995d5acfcf08180effc604d672a23de29"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/botanypots/yield.json"
+hash = "1d756e18fecb9d13b75a7022c006b3c995d5acfcf08180effc604d672a23de29"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/caelus/fall_flying.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/caverns_and_chasms/experience_boost.json"
+hash = "7151324be6808109d9794290dbf9c5c9c6b8a859425aaddf9c4f850e0248f313"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/caverns_and_chasms/lifesteal.json"
+hash = "7151324be6808109d9794290dbf9c5c9c6b8a859425aaddf9c4f850e0248f313"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/caverns_and_chasms/magic_damage.json"
+hash = "539310095d44d1ee805c56abfbdcae7f96b26f6591f5e0e13afa5fae926fa757"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/caverns_and_chasms/magic_protection.json"
+hash = "7151324be6808109d9794290dbf9c5c9c6b8a859425aaddf9c4f850e0248f313"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/caverns_and_chasms/slowness_infliction.json"
+hash = "539310095d44d1ee805c56abfbdcae7f96b26f6591f5e0e13afa5fae926fa757"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/caverns_and_chasms/slowness_retribution.json"
+hash = "539310095d44d1ee805c56abfbdcae7f96b26f6591f5e0e13afa5fae926fa757"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/caverns_and_chasms/stealth.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/celestial_core/armor_penetration.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/celestial_core/arrow_knock.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/celestial_core/arrow_speed.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/celestial_core/toughness_penetration.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/cold_sweat/base_temperature.json"
+hash = "1c5e23931e91f5eb0cfadff6d06a09dd29baf3ebda4b9f49f7ebf32f27a9de05"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/cold_sweat/burning_point.json"
+hash = "64ccda314ce37da8365e62d7c4d1207f6e19cc08228e97f9fe305549873df7c8"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/cold_sweat/cold_dampening.json"
+hash = "09d254573241ab101fbaa8da9b36f98ed7502c12a253d9686669259e932f8806"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/cold_sweat/cold_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/cold_sweat/freezing_point.json"
+hash = "64ccda314ce37da8365e62d7c4d1207f6e19cc08228e97f9fe305549873df7c8"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/cold_sweat/heat_dampening.json"
+hash = "09d254573241ab101fbaa8da9b36f98ed7502c12a253d9686669259e932f8806"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/cold_sweat/heat_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/cold_sweat/temperature_rate.json"
+hash = "1c5e23931e91f5eb0cfadff6d06a09dd29baf3ebda4b9f49f7ebf32f27a9de05"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/cold_sweat/world_temperature.json"
+hash = "1c5e23931e91f5eb0cfadff6d06a09dd29baf3ebda4b9f49f7ebf32f27a9de05"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/critical_strike/chance.json"
+hash = "85bc5671b741976a579ce449482d168e64e4fbe793b73822e66e183bf30d3508"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/critical_strike/damage.json"
+hash = "85bc5671b741976a579ce449482d168e64e4fbe793b73822e66e183bf30d3508"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/hackersandslashers/attack_reach.json"
+hash = "7151324be6808109d9794290dbf9c5c9c6b8a859425aaddf9c4f850e0248f313"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/hackersandslashers/energy_recharge.json"
+hash = "c568f31255bb84ce497127463bdeaa91d597a4336320d84bf669e630ccf169ea"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/hackersandslashers/headshot_power.json"
+hash = "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/hackersandslashers/posture.json"
+hash = "ac3df100b4b0adc930911d3d33276c2b7d4b0bb2dc4d909a4c60c393f82df7cd"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/hackersandslashers/riposte_power.json"
+hash = "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/hackersandslashers/sneakiness.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/hackersandslashers/sneaky_attack_power.json"
+hash = "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/icarus/max_stamina.json"
+hash = "0c8a89e3b80a48db70b6d391fa847046d99d595c256223cf7c7783b20dc675dc"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/bow_strength.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/crit_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/crit_rate.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/damage_absorption.json"
+hash = "fead7637d9e24d53ba947a7260fdbb1b8d7da59e0d46a480e2a5fb9bf2d4aeb1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/damage_reduction.json"
+hash = "68512ba5fb38958b90a6d612a2d002d7ddfc965e609d27776f1918efc8c989bc"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/explosion_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/fire_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/freezing_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/lightning_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/magic_damage.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/l2damagetracker/regen.json"
+hash = "6a50a28a3820a8085fb2d43b0b3ba718ff8d9e0df9800e855d540c3c7a82d862"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/lodestone/magic_damage.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/lodestone/magic_proficiency.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/lodestone/magic_resistance.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/air_drag_modifier.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/bounciness.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/friction_modifier.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.armor.json"
+hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.armor_toughness.json"
+hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.attack_damage.json"
+hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.attack_knockback.json"
+hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.attack_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.burning_time.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.explosion_knockback_resistance.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.fall_damage_multiplier.json"
+hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.flying_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.follow_range.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.gravity.json"
+hash = "84207d0866413a367d92222bd193912a418615f5eb9da342057bafec30173a79"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.jump_strength.json"
+hash = "220b18479d9b6497fc95e3b2ffcca5014d93eca33153fab8f343151c9a553bde"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.knockback_resistance.json"
+hash = "2dc48adc1768ab6f1ddf3f5d7526f6ff6a83e8409f98b64fc998f1c9ad34c94b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.luck.json"
+hash = "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.max_absorption.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.max_health.json"
+hash = "9d0ae1c8fda340e80aac17df9999ec1e9c7396a2327f63a40ea8006991201305"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.movement_efficiency.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.movement_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.oxygen_bonus.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.safe_fall_distance.json"
+hash = "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.scale.json"
+hash = "0e28210686e7f216d46ba0fee2508c263c7c39e26fb6d8380404789d3185e73a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.step_height.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/generic.water_movement_efficiency.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/player.block_break_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/player.block_interaction_range.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/player.entity_interaction_range.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/player.mining_efficiency.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/player.sneaking_speed.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/player.submerged_mining_speed.json"
+hash = "f874427dd6754eff702ef41fd35649493094ddd0c79e01623a2cc9ccfe8ce8d7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/player.sweeping_damage_ratio.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/minecraft/zombie.spawn_reinforcements.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/air_fuse_modifier.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/arcane_fuse_modifier.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/armor_piercing.json"
+hash = "2f085544def0f7cf423b77bc5d175faa51fcf398b0b57801e22a3283ac8211ba"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/bleeding_chance.json"
+hash = "2f085544def0f7cf423b77bc5d175faa51fcf398b0b57801e22a3283ac8211ba"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/burning_chance.json"
+hash = "2f085544def0f7cf423b77bc5d175faa51fcf398b0b57801e22a3283ac8211ba"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/damage_reflect_modifier.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/earth_fuse_modifier.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/fire_fuse_modifier.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/freeze_chance.json"
+hash = "2f085544def0f7cf423b77bc5d175faa51fcf398b0b57801e22a3283ac8211ba"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/frost_fuse_modifier.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/healing_fuse_modifier.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/lifesteal_modifier.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/poison_chance.json"
+hash = "2f085544def0f7cf423b77bc5d175faa51fcf398b0b57801e22a3283ac8211ba"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/rage_modifier.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/spell_vampire.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/stagger_chance.json"
+hash = "2f085544def0f7cf423b77bc5d175faa51fcf398b0b57801e22a3283ac8211ba"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/stun_chance.json"
+hash = "2f085544def0f7cf423b77bc5d175faa51fcf398b0b57801e22a3283ac8211ba"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/tenacity.json"
+hash = "2f085544def0f7cf423b77bc5d175faa51fcf398b0b57801e22a3283ac8211ba"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/more_rpg_classes/water_fuse_modifier.json"
+hash = "db1e83aab19863c53131bb6795966da53305ab1cb688fb332eaa11bd0c3ec69f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/neoforge/nametag_distance.json"
+hash = "137e8a8052b2264bc1c881b91b97011e4c33726819f4c434753ad5480ee3d19f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/neoforge/swim_speed.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/ranged_weapon/damage.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/ranged_weapon/haste.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/ranged_weapon/pull_time.json"
+hash = "fef2c6b6b818a3cae8d1cd4eb6bf9378d474e36dcf27320f764a50970c595b27"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/ranged_weapon/velocity.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/sable/player.sub_level_punch_cooldown.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/sable/player.sub_level_punch_strength.json"
+hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_engine/damage_taken.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_engine/evasion_chance.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_engine/healing_taken.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/air.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/arcane.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/critical_chance.json"
+hash = "71d42d76b84bb16b483000c34bd52899c1d900405479f8134dc58ddc92f5d03d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/critical_damage.json"
+hash = "71d42d76b84bb16b483000c34bd52899c1d900405479f8134dc58ddc92f5d03d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/earth.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/fire.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/frost.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/generic.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/haste.json"
+hash = "41170b7b4d990e5f28fde8585b3d51e22da4e44a6b5a918c8dea304ea10457bb"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/healing.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/lightning.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/nature.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/resistance.generic.json"
+hash = "6b9b3d0281e3d07f12580d39983e2ac2eac90f30c739d743b84d55024c3651ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/soul.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/spell_power/water.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/undead_unleashed/projectile_immunity.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/unionlib/generic.accuracy.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/unionlib/generic.arrow_damage.json"
+hash = "6bce4756f23cedf273e963254625fa594a32208f99de05db1abd1e77ec671372"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/unionlib/generic.arrow_velocity.json"
+hash = "93b4adf5c49377098f3767e46dea7ab8228ad0edd2d0f59904ff9e12a429e8c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/unionlib/generic.critical_damage.json"
+hash = "43aa2701d17e26c045533a5b0500fa8c0639d4e62adcccd389ba3426378a80c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/unionlib/generic.critical_rate.json"
+hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/attributefix/unionlib/generic.draw_speed.json"
+hash = "e8b11a3c98b026f6b267c87db419c1cd96cb67fafc0132672b2f910e795625de"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/auroras-startup.toml"
+hash = "76bc1f535015657364b4c3bfd3b7158c280f172a06df1e26e8f8db382e4f7d60"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/auroras/aether.json"
+hash = "d0e1f272c0c9f0c6bdefe28814c253bba142916b5a5f1299b2a577dff035fcdb"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/auroras/overworld.json"
+hash = "bc587d5679d60325daa438e00804d3a30f8a1db5d44a89479388cc6edb1cc9a3"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/auroras/the_end.json"
+hash = "2be2af5e5a1049775fb6e2a54fa9ce164d94083097753e9edfebed7f42354015"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bards_rpg/effects.json"
+hash = "24fafc782fdd70952c4d9f450066169dd95ba245143b84b2a5a27e2cf5654a12"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bards_rpg/equipment.json"
+hash = "4d06478bdc6539589f068a63e6d741307ada0e783def082c2393bc840a9b3cd1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bards_rpg/tweaks.json"
+hash = "aabd76493bd04882ac8a5154236e3b0fe86ba5b24fa222feb889b79709927ec8"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bards_rpg/villages.json"
+hash = "0c45606946c7cdd690c2fc20bd32fcbcccb40e52dc59dcf31ea621b7600eafc8"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/berserker_rpg/effects_v5.json"
+hash = "ee22b22e67cd0fd5361ebff565cdfb8368259e517d22c2b05bb0f4e468b4f83d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/berserker_rpg/equipment_v1.json"
+hash = "99dbc7634f8265d2d878f32e935060395a4bd355f81f3f3237c72bbd6a05c845"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/berserker_rpg/tweaks_v2.json"
+hash = "0d138f4e503a0b57cee8703a3b4e2419d21dee1a65c66d4c9d14f793fc561cfe"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/better-advanced-tooltips-client.toml"
+hash = "5b0da765c45397402cffe340f632544a8e740a767937f353a3a8206b6cdde0fa"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/better_party-common.toml"
+hash = "e5f29da0c51e553a33b5b09a39ac289aa3aac1d9d8d78e4358a9084400227405"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bettercaves/README.txt"
+hash = "e6f25132180339d5b7f53c1f5473f28cdf743f76292bc8f87142e4b0300e0f2c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bettercaves/neoforge-1_21_1/README.txt"
+hash = "1dc29f3ad9f62887f2667aeaed28c3fd3a2520055382ecb3636e3cb9ea563baa"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bettercaves/neoforge-1_21_1/liquidregions.json"
+hash = "ad0e43cd1d8fff16d76ff6036699bd67598ff8bc18220b7e8e951245c92cf139"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterdays-client.toml"
+hash = "730b13a15e01a03825fc40477758799ed8801c783d9cf829867c43c1b08f7ad9"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterdays-common.toml"
+hash = "4019da0ed20bdeec2df74e47b9277a4dfa6fe87a0f5447e37f9b27d8e8319fe7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterendisland-neoforge-1_21.toml"
+hash = "ffe069fd52a22a7967f4d012382dca670f585635cb721c2190f0595969b662af"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterfortresses-neoforge-1_21.toml"
+hash = "0bef433c8253f63704694528c33dc854f2b28da084d420a61c43fd62d6e5301b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterfortresses/README.txt"
+hash = "5643f5af88b445a96f2c6ea167b97cc640059eda5c849ed3c7b8d5023ab51a86"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterfortresses/neoforge-1_21/README.txt"
+hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterfortresses/neoforge-1_21/itemframes.json"
+hash = "6112d683a78f3469067e8738232c7a4ac6c0351dff1b4f0235085f1d0eb98384"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterinventory-client.toml"
+hash = "04dc2c7abe5e75f41cf62db37cc75fd4df0deffc39a5e81dd92198095c59ef35"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterinventory-common.toml"
+hash = "ba5404c21a6f96d8120ede3b0e20cb17c0c00f88a2980753c947a6c9f31005b1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterinventory-startup.toml"
+hash = "50e60e43dde1c15b888ec880a78e45b96df0b39e28522b8308b8d08839d29ccb"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betteroceanmonuments-neoforge-1_21.toml"
+hash = "6c09d2a75810e76c719b355c3480d1dc14b135f944f4a85d2118a395efc916c5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bettertridents-common.toml"
+hash = "aa4f677780b16d770afb7f30cb157d4192be9042582667fcc837f26de411e980"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bettertridents-server.toml"
+hash = "0ad8da5df228545e8f6852c8962e23d9d979a9a1e59fdea5a2196352a4300922"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/betterworldloadingnf21.json"
+hash = "aac18d7595f9ac106181d8812b264320cbb06d203a2cc66c763cc6e0eb91c077"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/biomespawnpoint/spawnbiomes.txt"
+hash = "6e299ac763f5bb71c4d77e3dc7e039eef9d9bab04b2e7456160d736a9a33a60f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/blueprint-client.toml"
+hash = "2459dd80f64e56da7a6259b6a68e29f00130ada136c28c834ba01ecd3485f012"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/blueprint-common.toml"
+hash = "251f732f07620eab2bb5e56eb068e39e6d651d26aaa7094f59d090d9ce82ede7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/boids.json5"
+hash = "3364cef6ac62a84873ac5bd99ae1601375c75083477cda10afe2f35d288d7fef"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/botanypots.json"
+hash = "4c2c8d447ff50ed3de32aaff6d16fc4cdbca4b4d9cb090b0c9795be1c327f124"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bridgingmod.json"
+hash = "2f3b312ba9110f5af338d362b35f09c442c01cc4cb9187da9626de7cc10e2d01"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/bucketlib-server.toml"
+hash = "944d8d335ab8dcd236849293e80a6d0f6700522c1ee3c3c7272606c32190fe66"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/README.txt"
+hash = "4994830bc8e3e0e1579cb765c007a9d83f7f1f001de8eaae7634cf3e669c1818"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/burn_mappings/overrides.json"
+hash = "160d4dfa8a6a06ddb38e898148550ebc8e6135b9240f951d1dbac90abf28aef5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/bamboo_blocks.json"
+hash = "f4ac7f51f53eb78f9d0c51f7e59ab771b90932f94716dc4f6c7a6e9baf84d2fd"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_burnt_dirt.json"
+hash = "97424b45a8937bc9d5857c55bd14c18b96ad001eab3663f8a427f48567d36e3b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_burnt_farmland.json"
+hash = "d8472fa6b320a0bb60fb708f69521c87aed252bdcb358da8e378a9be3c36aefa"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_fine_leaves.json"
+hash = "18c1787add69d27bcc71addc67e6bbd35ecea634fe63b7f704334c75246aa2fe"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_hollow_log.json"
+hash = "f557c2e7bb2f506e7172a3517b544cb0e0652d6bfef355319e07628963aa197a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_large_leaves.json"
+hash = "bee59cc882f268ff7accce9adef1fbb3d428b39be81c72333a2751114044ca42"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_medium_leaves.json"
+hash = "703240c49b0aa02e70d77a0c1928e89eaf4717ca1e3a9285d30ab2d63a598b5a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_small_log.json"
+hash = "73097d7f27691c4a73ccaa001fc7c32a1385fb589848ad6e7f1d9f626ea99c76"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_branch.json"
+hash = "6cb703aafc8652c3eb81020d6e7e21793cc83c87d3f44d653951d964da7f310b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_button.json"
+hash = "70995c62d0f2f32ff0aa2f4d278cceb74c97ae1e198c4e059131baa8f43c5471"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_carpet.json"
+hash = "6c4d20f7b53e02f7107eb29db2c14306a68d7a17a989800377a704be44419421"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_crops.json"
+hash = "1989a772722853ab51c5f7462a957d2477cd04268951464990058cc34e37871e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_door.json"
+hash = "d1b077cb7669bf3e9c47f5c7b762745cb3aeb994baf688e7be61740dda883549"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_envelope.json"
+hash = "7341681dc6d99e00e3246fcf932679c86c50dbd72a011f831361bb675b9ffec7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_fence_gates.json"
+hash = "09b3eba2e95e98d4d09c3939196f13312f0db6da84b5eabb6af7382f97c151df"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_fences.json"
+hash = "01a9149740c24f858780623f0f74ee44b050908e09825751340e7f88227dcd9a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_fern.json"
+hash = "165582e82c7a586fae04b567f279ac9d4ff504320af5bfe3c1b83f09df9e3124"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_grass.json"
+hash = "d846f87863d4cf098d55c003d6c2f64788daa085d585f6058536e503c7fdc652"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_log.json"
+hash = "b17e7d7cedfcb9f6ee0fea928600e9ec6f805fed73643de68c20ad61b690bee0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_log_slow.json"
+hash = "351d76bd71bd793ecaea0c147a5242b0f04e4d630295e1834138a2220ddf1ae4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_moss.json"
+hash = "1757d0626592d0bc91623e10de87bd1d236d2db39e80705fd2efd216b1afa793"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_moss_carpet.json"
+hash = "9c5ddbe1cf20abb98bf0d399f5c07d164c109b4952afe32f81c0d5355cbd5d59"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_planks.json"
+hash = "2b8c162de6ce38d47ea7ab7e28b40e30a8af798800066e397fabaf2cd770c2f1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_pressure_plate.json"
+hash = "99b67b3aee6e5ff2bc07e179fccde7088a46d362f60e1dc846f03eace6a0de07"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_root.json"
+hash = "0b173f2210d396c68c52b693bcab4c2f274c67a794bfe0e8bbe1bdf1a5563bf2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_sail.json"
+hash = "d1ab419d9608bd67c96dec1d25cefa93f5d70d625dae49877c4961861c7a59d5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_sail_frame.json"
+hash = "1443cfdd6acd4fae60aaef3f53779f4b70e013b0502febbdb612da4c9e170f60"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_slabs.json"
+hash = "58fc073bdbf5e18ad5b915005fe61dc0da9a9108606e61322e844501b7c831da"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_stairs.json"
+hash = "7afccd0dd79e8e8647e0fec938ac57d8be798442ff506c02d2d961563972aa71"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_stripped_log.json"
+hash = "c6585e4ba924a2f8f5ee45894c385bd7668479bf3a625d923cbb55f9e69448d3"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_stripped_wood.json"
+hash = "79401b9d35e27ceabd5e12f07239ffe0b4937813cc340717cee9a4523d8e0211"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_symmetric_sail.json"
+hash = "8770eac25da5cb2ef700ecd861ad38d1e5c0047a6fc3df27f08dbd71b171e61e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_tall_grass.json"
+hash = "8a7a6820c3c01793c3cfa2c2d0165c203af8e00b9e35a48290d59fe5f11f1822"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_trapdoor.json"
+hash = "bee3d98cd62209208bc49e74189d0e5942d16522972ecfe2ac25b35e9c81313a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_wood.json"
+hash = "5958fe9ef16210916628bf79a2e5c58a1ca75cc476b4f6c4b91b4db2237411a8"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_smoldering_wool.json"
+hash = "8a353cc8813cdab7ed67dbef43250a83d5a30b93c8d3f78c2f334c246a77ce10"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_vertical_slab.json"
+hash = "2b67194ea232d6f455a705ec50d9161a7638539538514c7905554e81042665cd"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/burns_to_wall.json"
+hash = "786335ad2b32e559834ddbcfe5cc452c5df94ffe7b7bec3aacef41b012cd8815"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/destroy_in_burn.json"
+hash = "c094c76a7f1b17efa6f9c90dd75ad627e15856ae2d4f3b8ddc83bd6037e90ff2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/fire_resistant.json"
+hash = "6e0539cf90977cb21137b78e2d5f70144e0a56bcfe6105b19616ab7c463af7ab"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/vanilla_fire_burns_on.json"
+hash = "f29d956b35af617a72f995334cb11286ff2dc02309ac52faa82bf6899852dbbb"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/data/burnt/tags/block/will_not_burn.json"
+hash = "9cc2863d8185c3a17933820238f5cb1b760b405d02798cf6f981d6c1c0334ea8"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/Burnt Block Mappings 1.21/pack.mcmeta"
+hash = "998c6e1a0a388d86755e79d27615290f5929a85a52a85eb4e9cbcdeb219aa0ed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt/mappings/README.txt"
+hash = "52327717790071de2788aea58ceb9126913833533f236c2cbfba17c98e0440bc"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt_additions.json"
+hash = "cfca209c2c8a26649526012f01c09f81f0317326afe62977a795cdc1fe32b4b7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/burnt_basic.json"
+hash = "ea04b7e0ba44b59810a4d59dba420806b267a02e2f874a3e85c46164b7379ada"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/caverns_and_chasms-client.toml"
+hash = "f3c207ac4d16cfc31e0b224d0925d7066a0d25d58f418127dce58e74b9c1fa1d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/caverns_and_chasms-common.toml"
+hash = "fa2e5b5e2849107e3393ac5407f3bd61c956a7eba33b2e5067e4dab8be5a26c9"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/celestial_configs/celestial_artifacts-common.toml"
+hash = "e82905d346710056f59625be57a50efc7d68d11dae20190ff2ad90fb48642694"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/celestial_configs/celestial_artifacts-server.toml"
+hash = "a4e398232be0ccb5990c3018b1996e924c5dcd6e12f1b1d21e51916aa7df8644"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/celestial_configs/celestial_core-server.toml"
+hash = "240e75b5a3d7089a4bdcd6653f2262a18e0daddaae80ce35466645b4a140cdc6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/ceramicbucket-server.toml"
+hash = "e966b30f5cbdfa480f71b4605dae534315816605da878f33890195ccc6126080"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/chat_heads.json5"
+hash = "da047f212b4db2e6bdb8232f1ceebc92f6e734c4782475487c3fb93f97f89628"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/chatanimation.json"
+hash = "b0fa9ec5d41f666fa2c770bb2bde4753cbeeef76909f4765d6ebbf5683c4ae58"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/chatimageconfig.json"
+hash = "002119066203d6815cbed85e72cec1685422fc991d0244706da5d5cab5a0883b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/cirrus-client.json"
+hash = "b49fbbf3ae0cd1c7dc206f9895b63fd04affac5974acbb877ba4deeec47e5445"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/clayworks-common.toml"
+hash = "ef65725eaf5e00e3a74ace814ac6ad53f541fc05af04ba9af63a21c67b2802f1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/cluttered-common.toml"
+hash = "53a0e119f787d75d376ce65b6856c53113e70889b33e3567fbe002246812dbf1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/coldsweat/client.toml"
+hash = "b2999d83a9fa964af87888d44b1b9b9a998988f23e051218ff95dd7c2717aa64"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/coldsweat/disabled_mods.txt"
+hash = "ba113e5910eb54f230affbbf638aee153b3d3b0d4d920f6df44d309b57fdc36a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/coldsweat/entity.toml"
+hash = "d89103adf4c1474b62843e1fcad6665b2fab4c8dff7a7d0d6c6e9a449259abf1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/coldsweat/item-1.toml.bak"
+hash = "369e215e053760d07c6a8f68a6fb62749a4968bb5826266c4fb223f3ebccd9d8"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/coldsweat/item.toml"
+hash = "4751d9d3b5def026b315354ecbc044f6c7f90d8bd7878817d61abf22b6e17948"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/coldsweat/main.toml"
+hash = "3286ecf8c86cd780643361f696b6837c396f0925504d42d1f866cf3d7f078ef0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/coldsweat/world.toml"
+hash = "f4de8e499ea153ee4c01b1cf67067e5f3d3addfcba2f642985e1444b88075eb2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/collective.json5"
+hash = "92809d098b5efeca95c37ec4fef9184bd169160d18efecf81f395c4030c0f83f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/connectiblechains.json"
+hash = "f50f145a15545b4d2141f43f16d15579742ab168b08f7fbbf7ac7fd92db76568"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/connector.json"
+hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/connectorextras_energy_bridge-common.toml"
+hash = "2960bccd52230cb571c760ba9122ec1f4b21b5079f977700d4ac03f1518aef6d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/crawl.properties"
+hash = "d58d25552567e85696dda35717e06092c1c4f7e5c5f077d2a919702ce01a5ff1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/critical_strike/client_config.json"
+hash = "9d9fdc01bd2fd5a0bd2ab2edfd584d9d9f1e9ced929cdaf6fa33228b443023be"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/critical_strike/server_config.json"
+hash = "b93dda8f51a2f916ee21eb8b46ca29f9e97283849c665fd13a94ccdafa8d0f47"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/ctm.toml"
+hash = "b406070e0bc87961c211c5bb62b2754ed3bdba70cdf6975ecf64aff351b8d68e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/cubes_without_borders.json"
+hash = "7799f0a0e0e22480b63e96051ac53c5645defcfb10e7e04c129860397841fa87"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/curios-client.toml"
+hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/curios-server.toml"
+hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/defaultresources.json"
+hash = "3975bcd982be0f8a181fe8dfbf6dca56812d8afb3dc77bd58d41f48b0eb45629"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/distraction_free_recipes-client.toml"
+hash = "1ac3e06b909d5fdcfb07405da21a1c546df068af8f910dd2c78bbb77a04b16e0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/diversity.toml"
+hash = "d47acd38b3967d2ee1589daaea6841496f82e78d094f978aced3d4c650b818d7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/do_a_barrel_roll-client.json"
+hash = "ee32faf303d3beaff76ee54091bc95788048046b6e948ea7795d1eb34f365607"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/do_a_barrel_roll-server.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/dummmmmmy-client.toml"
+hash = "83a8e36c6379b1ffb35d9757e28df9c179261ac065d02241caddfe590efc6292"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/dummmmmmy-common.toml"
+hash = "9867888efe0d40714c8ba340f7310a7a5b7bcfcc2e31ebb9d299bbae86a68b51"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/dumplings_delight-common.toml"
+hash = "127d1736c8df023e1c614e5b6d9d841796c4482e7390c79945cae43d79bf3583"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/durabilityreworked-common.toml"
+hash = "e2f96bde17c660249556e1cb641e342af22f474e1acde28bd8b0c6599a7699b1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/durabilitytooltip-common.toml"
+hash = "7d38121136311ab3482d5696267255194c30d1afdae991c872e81aefaf1e41a1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/dynamic_asset_generator.json"
+hash = "82d9f8d71afbc7631232154b288042f274e74147ea8ed223f51c055d4a58b18c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/easydisenchanting-common.toml"
+hash = "5b5bef9f016a86580319c8ea13348adcdf8a7c41b6996570b37e280ee0dfda82"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/elysium_api-common.toml"
+hash = "16f20138c12aa11227fccc5bd370bd25eaee5e18e611f8a49fc06ed9b59dc6bf"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/emi.css"
+hash = "b2fefce8b997851759990d1ec0c71d4be631e435857eb7b19516e4806986ac34"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/emotecraft.json"
+hash = "8cfb42df2afa3b8aed623ab5ad0310181693831f55f092ebcef87b299ccc03e6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/emotecraft_emote_map.json"
+hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/enchdesc.json"
+hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/endersdelight-common.toml"
+hash = "d68030c4d35298f600c8ac5b0db3421c67e8620db1a2232eed07fe9d9d853630"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/entity_model_features.json"
+hash = "4d13dfd4a71e0f9b0e6f673233856185f10bc2465916d7e43ace4e3621334067"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/entity_texture_features.json"
+hash = "751cec8b6f1456d0bf10127a40c264063ba4f1dffd6edcc2c552aebf87a7e188"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/entityculling.json"
+hash = "4a6d510b7e0157027b1cf2022184567fd5387aa09d08db108cb0369ba371ddbe"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/everycomp-client.toml"
+hash = "88b1db478a0ee9c37e9ec28335b204a966fe17e9ba0310bcf2caffd28b5589a5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/everycomp-common.toml"
+hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/everycomp-entries-1.toml.bak"
+hash = "7328ec2112a15a69698d1960b54962a9c2eb2192139afc9989930114d5173c9d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/everycomp-entries-2.toml.bak"
+hash = "3d299b882c27b99764c40da27074cd2b7bc0a17927343dbf2c310355ef41f626"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/everycomp-entries-3.toml.bak"
+hash = "f22cf7f785a55f4cdf2c2e5fb7e3204b836a919461613bca1be6292ada711bcf"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/everycomp-entries-4.toml.bak"
+hash = "c9a86a5ceb3a986aca64866fbe024a654382b53b6b9b81b88706d142ba5edef0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/everycomp-entries-5.toml.bak"
+hash = "df74e47cced02a4efa0b59a5baa5e4b191484e40fa47344801a0a74a1648593a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/everycomp-entries.toml"
+hash = "3d299b882c27b99764c40da27074cd2b7bc0a17927343dbf2c310355ef41f626"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/everycomp-hazardous.toml"
+hash = "ee0a62a6343886f8c93798e6507e66020f2925844057c4d116f793ae6fb3e062"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/excavated_variants.json"
+hash = "24305a5e4a6cb6f8e482ac643cca6c18d0f92af3394c4296360a5ee029ea3d5b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/explosiveenhancement.toml"
+hash = "59a8f784524a4d3e7d972c9979e314a94df9e9a3fde8ed6aded6c951cea18d65"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fabric/indigo-renderer.properties"
+hash = "54c9fcb4e1c894a6e0e9e5d3d8296a7acb097a04c53593d631c48248afb9685e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fancytoasts/general.json"
+hash = "267cd5153fecd073d0777ed2a8aae3e8703a084262d3a09781f026d15b3c0d02"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fancytoasts/toast.json"
+hash = "ffd770dbe37acf49f080f2715e2ea11475afdcb5437127a50176fa966c9375f5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fancytoasts/toast_filtering.json"
+hash = "9ca725f65ebbcb0fd65aefa5e52a221986ef4e19cac0ee912481c4cf2152a038"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/farmersdelight-client.toml"
+hash = "a8cdc0376674d522d92d977cac5800d00c6f70ea62ea83dea59595fb232b8e3e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/farmersdelight-common.toml"
+hash = "0cc639f1ce8ab5e63f754ab41be3ab09398fd149de6d0b5edc476034e3ed8b06"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fastpaintings-common.toml"
+hash = "d0b4c0e85822735c3cc9800108204225e1f8e4fd17a17fff9ecfd4ab045e5f03"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fastsuite.cfg"
+hash = "44198ad591572d87a9f71b0b636229d91508a8c971f9dca907bed3c6d6754193"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fdlib/fdlib_client.json"
+hash = "fee032c43c30c3a4cfaa26736c3c719a9baab0badaa6ed8670353670b4999074"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fdlib/test.json"
+hash = "29c354279f36049c2cda368882d498dc20d8fc9193899e42824b75f406e33ade"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/ferritecore-mixin.toml"
+hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fixedanvilrepaircost.json5"
+hash = "0f1721149e685ba4cea43f1fdf065a8528bad2049118169fc8ce48b2fc4c3bdc"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/flerovium.json"
+hash = "e236ec86219100c4d003a5eb9b76f9445fd8c8af064d4c12b9b368bbfbfe3745"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/flintrequired-common.toml"
+hash = "cf9521e35e0c44483b4e32559f1333684e676831901e9b8eccbef52dfb2c0f68"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fml.toml"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/forcemaster_rpg/effects_v6.json"
+hash = "1ffc0ba90429d2225f3d650e85fac338825e72fc34cc14aabc7a7b78cf5d9423"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/forcemaster_rpg/equipment_v2.json"
+hash = "3bf546b77423d4f4fe619e48219d2799677f6334c04dd78bfee0b7ed2b7ea655"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/forcemaster_rpg/tweaks_v1.json"
+hash = "665d6e2f0db6a6e266b37f03446d7631c56733457c369e5d8910ec878cf8c3e0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/ftblibrary-client.snbt"
+hash = "4a98161835ae188156dbc1f1015287c0c17aa91db082a083ba6a505de99923f1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/ftbquests-client.snbt"
+hash = "1032e8651b80ddc5ddc712a56ae0d5a3408e9c28d5dcac2578705cce9ea4bcd0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/ftbteams-server.snbt"
+hash = "61b37c30c24d841f4d993e933df0d60f198fbcf06671a87a73b9a23f8434858d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/global_packs.toml"
+hash = "e521baea8cde5a275585c7063fa3272b79a303c73e4efb1d509a638914e1299e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/hackersandslashers-client.toml"
+hash = "1fb0c86a192f28aa0ec15c7dd4f61fcd7fa9a791abcab5a50751d1de1be3a7bc"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/hackersandslashers-server.toml"
+hash = "ecdf6068a31ef787b1f69a7b7a5ed37d8f60b3121821c9766eafab90f7d544c5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/icarus.jsonc"
+hash = "e3a0fb3ec9c7bbf7a22a42b272fc98a1a98e4826884b17e822eb2e588cd38b92"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/immediatelyfast.json"
+hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/immersiveenchanting-client.toml"
+hash = "d12d9f089679e66c671211121dc6d68bedb9bf8564cff6327d6ee797c5238672"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/immersiveenchanting-server.toml"
+hash = "6ea75aae9ad8c80704afa741f5146bda10c099dec026512d7119f83f9bdcd2df"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/immersivelanterns-client.toml"
+hash = "1a2a564890db1595ce7dc41040581bfe3a5a2e573c3411d5cf52f936097f4faf"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/improved_village_placement.json"
+hash = "7b54261693df859be612657b6caf06829359f1b0555215d19a6513999abbaecd"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/item_obliterator.json5"
+hash = "a040a0fd73f57ecc6800c5a93eea83b75622e7cec5a2064fe790c9c740e95f1d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/jei-server.toml"
+hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/jei/client/default/jei-client.ini"
+hash = "aa4ef758061013cfdac67aafb156d267f31b05ab9f6beeb048075ac8d41c379f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/jei/client/default/jei-colors.ini"
+hash = "c6d4ae48280627d04a7ae2b6d3db65e71d73670a72732f5aed9f4cfaac3837c7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/jei/client/default/jei-debug.ini"
+hash = "376cc883cac002d07792f209f7bc1915ea7fa8822effc67734f1589bab9bb806"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/jei/client/default/jei-mod-id-format.ini"
+hash = "2e5119684366f75bc8a6df871381c6094a812cadd0d5ed0547405b5f1353f9e1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/jei/client/recipe-category-sort-order.ini"
+hash = "a423602d2cf1b2522a36bd15fe011de2edf358d92b14daddc68c89babc0085c7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/jemscampfires-client.toml"
+hash = "9889045ae1404dbf0e47e219806e5b4c4aa3d2b01a4cc40c48bf516679abf982"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/jemscampfires-server.toml"
+hash = "2bf9b32ad48b9dc9e85377482be23f88b95523ad4fd2a7d80a60fdf6eab3b07f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/kiwi-client.yaml"
+hash = "f512241367e5045e0d8feb49d51d3fae22a2e1fc6398c1eff29c10a8bd58cf0c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/kiwi-common.yaml"
+hash = "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/kleeslabs-common.toml"
+hash = "5bb9e052441aca3b72d7f49adc40f40d222bb3404e0f7114c48e998195c73c3a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/l2configs/l2core-client.toml"
+hash = "1a16bebe5a1fb9f6e3a81fd00bbaf20cfe28b15de54be97caddf21b638c26f84"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/l2configs/l2damagetracker-server.toml"
+hash = "6d28810ba07b69d97a23a4ba23cb6d4d9df2b4f40681333eea4d77d14c16c2d7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/l2configs/l2itemselector-client.toml"
+hash = "06974965c2133bc6078f173b4342834270e78a4b3b70dd9a9d786c8055d771c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/l2configs/l2library-server.toml"
+hash = "dbe7095d94a7ffa634cbf853963ec9bfc63f669a9e3d08967c0b07249ba9c568"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/l2configs/l2menustacker-server.toml"
+hash = "6f3fdf92adf6da9c2f011ed3d814bfcbf3e8247dbd2bdcdb231283666ea0877c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/l2configs/l2tabs-client.toml"
+hash = "a9c9034135d0ce7d10b2b14e6958f12f8578af0313dae6528cc53b446511d953"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/leavemybarsalone-client.toml"
+hash = "9116cc2fe8ae47e634bfdff08d73b91eec08c2bd29762d4bcf8e95a43fc03af5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/legendarytooltips.toml"
+hash = "3ee86b7d3db0c11d9e4288110804777e598f49a8445fa63d7fbec00f74a0f92f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/lithostitched.json"
+hash = "43e35f01fceb40ba4689584c447ae842edf22fe86131f30f5108aae55b1b5ca6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/lodestone-client.toml"
+hash = "c088a5e2ac97282375f0c346ced0647f0b76d09e62f0e37342b52dcba17f43c3"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/lootr-client.toml"
+hash = "2e0eed967110c4fb2639f778388f5ea64a82781ccf75cdf43f44a971ed9c6b27"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/lootr-common.toml"
+hash = "4723a176b1e5fe7a42013245bb284ad240ba147cc8f3fac3d2d78e12b6f5eb5b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/lootr_liason-common.toml"
+hash = "92388b8b3cc1fa3985104f8ae03d5e9ce36546b730382c97eeaaf4799e545aa0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/maxhealthfix.json"
+hash = "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/mezz_config/client/default/settings.ini"
+hash = "1febf6ff1d35f4ffe34d6e5444e3c9496155a6abf3f49eb4ef5650d102645249"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/mobspawncontroller/rules.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/mod_menu-client.toml"
+hash = "5b2422198f871cfb5725fc0171fc7633be153de75a29610d93610481ff222efd"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/modelfix-client.toml"
+hash = "ae36e7199d4138e363e1565fbb8059984ca0b4f037a3cda7cfc4c15443862db0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/modernfix-common.toml"
+hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/modernfix-mixins.properties"
+hash = "cda1de84880f439d9c8a025861a483d51972e76b8a5a6a253dd0196aec821ac5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/modernworldcreation/config.txt"
+hash = "d1bd56ec12c026110b417a9fc8aadbb5d65ae34ff66e6ce796e2decb6003ba9b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/moogs_structures.json"
+hash = "dd18dcdbb4de97ab8f04e8058037ef31f69fd59b007f97d66dfb4cbb2fffb02c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/moonlight-client.toml"
+hash = "70bf06a1baa99b6c6edbe9a324ccfe5f92536ba4eebee90523dfddd22554d07a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/moonlight-common.toml"
+hash = "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/more_rpg_classes/effects_v4.json"
+hash = "d88b9f565ca099f3eaeab576ffbc48179fd26cdfc3da03b4a6bcd06a831a0f76"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/more_rpg_classes/elemental_weaknesses.json"
+hash = "3a7fd62fa051446197d9c7799fe407da8431fabfd13ee0b9f97186b871272d54"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/more_rpg_classes/loot.json"
+hash = "ed1e02b6c35ced203158d41c236c1e7c9c3ceee7af5e6adfa962737d375e6375"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/more_rpg_classes/tweaks_v2.json"
+hash = "9ebab727d4edca966d1a7275c82c143d2cbc24cd8ba6f67d9c53fcee8bf2b458"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/moreculling.toml"
+hash = "db63bd41fae1b92828f13b34b93215549ca167ccf44a4c09d050fe559fa203a5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/mynethersdelight-common.toml"
+hash = "ed80b58d749ad2ef5bdfb09cbd8813e1ffc029fc7f29be81c07d47932b7e05f6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/nanny-server.toml"
+hash = "784d1aeb9489aa1b3e44ecd1a6e9e17aed9a20e2362a762fff6edb61eef3f1e1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/neat-client.toml"
+hash = "a73711cab1ff37ba55bd969ddc33af59b1bb56626ec5200de5d52c97409ec5b8"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/necronomicon.json5"
+hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/neoforge-client.toml"
+hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/neoforge-common.toml"
+hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/neoforge-server.toml"
+hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/nerb/compat/emi.yaml"
+hash = "cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/nerb/general.yaml"
+hash = "ec614cafa950e8fb5c77d497a8bb0b0fa44b8f88c0a0b7767515fdb94f116340"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/netherexp-common.toml"
+hash = "f5d69b088b3a7f2e646960dd8a045cc83ad17723c7f8f26c9409236fe584b2b7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/netherexp-startup.toml"
+hash = "d2c4c678eb53b8da8ad264486f05504b481ceef1264e0e00a07ffae1f8b39400"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/netherman-common.toml"
+hash = "230242c301b72f48072d8b4ec9737b25dda84a1a53ec1cec64c5ef55958389e4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/notenoughanimations.json"
+hash = "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/overflowingbars-client.toml"
+hash = "9037e801784c5d10420d23445e1086e8ac39480bce15eef4b73d9b519a373561"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/paladins/effects.json"
+hash = "c105baa05fb320b4752592ef2037ff5cab60734cff6f7724d4415a3a70061aa7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/paladins/equipment_v2.json"
+hash = "9cba9de567c67cce65a69348f139be103f5f2a848c88fa533458835326148e59"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/paladins/shields.json"
+hash = "57fb6ffa32979da15dcd4c5d59a87cb819c499bdec7d3d4cd87226957affcad5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/paladins/summoned_entities.json"
+hash = "9462b9ea5e54ec02b1b2c27aca64f99c26b2e830bbd4bb44c1420a7091b7ad3f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/paladins/tweaks.json"
+hash = "1f6f35489bc3b5df6476bd59a50d82919e393fa6b43715afb9d3428b0aacf780"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/paladins/villages.json"
+hash = "1f055f8cdc62d4035fecc05af7a1b6398ff0f9efdacc4422c4e58d8ec0a253bb"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/particle_core_config.toml"
+hash = "9f21aae26ba31a4fd9bab85c4bb4e37d10ac408aff9feed91ad6acdf1e269634"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/particle_core_disabled_optimizations_v2.json"
+hash = "7189bb61c58cb1030b8ee486e66abf694d257192248b9b3ac4978df2b1366f7d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/particlerain/config.json"
+hash = "e467bad5ddd60ec1f2deee790243ea6a08712d365da472cf46542c8adba84d38"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/particular-common.toml"
+hash = "26bebcb2c2a38f280973e18b3554989cdd1fe00724b45a985b5aabb3f09d25d6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/passiveshield.json5"
+hash = "71e75f88c2bd7f82563a26de633c0d37c8b0e3d67258a82082f09c201fd40a19"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/pickupnotifier/pickupnotifier-client.toml"
+hash = "079be54b7b6059b2864b3ed140dc1e20219589f6afba32dc4ff203c981ea6a4e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/pickupnotifier/pickupnotifier-server.toml"
+hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/placebo.cfg"
+hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/polymer/common.json"
+hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/polymer/resource-pack.json"
+hash = "432366ba186d75b0f33432be4945fadd2d6e0ed02d10d6e09b20726e0b460bed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/presencefootsteps/userconfig.json"
+hash = "774274e780bee5bf90b8114e59429b5b3a26222b4dca7d8df8b1dd438b33a003"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/puddleflood.json"
+hash = "c326956f2c4fc0c6b421d977d723213b2a82362c35593ef7cfacf51110b3eca9"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/puffish_skills/config.json"
+hash = "548156b84adda7e833d8f8d0cc5dd82dff1ba23a93011c4770ad548f1b9c82b0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/raidsenhanced/raidsenhanced.json"
+hash = "06b5173418f8eb69cedce846190d8d1158d58b38aeb516082bf70b2a91f51d6e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rainbows-startup.toml"
+hash = "d37c81195454637703dbefe6307a5bec64e0b81a1e95ca07b5344ef0016f5d9d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rainbows/aether.json"
+hash = "cca420488585234eb144d7ff8ab9c380872f7009902645a66f48326ead1e1606"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rainbows/overworld.json"
+hash = "98ecfacc072f1f9435a5c954927654b9f02c8bc21ced95379b19e0a44b07b914"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/reliable_replacer.json"
+hash = "a00f8989263fdd1042b8395f928b2af38a52480666d3d97508c3f0a70fcdaad4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/reliable_replacer/example_rules.json.disabled"
+hash = "64ce01a8132ebfa472d96b3379bc2931e87d39af519b2e62d279ce95d95f416b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/reliable_replacer/swapper.json"
+hash = "6c941586e902a406b78dba22e72810660afeae47b319267ba464a6b7f48a0ea9"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/resistance_balancer.json5"
+hash = "6d2f63d32418944791e65eeb146b92fe18139cd3079f15d592564768a1cd8221"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/resourceful-config-web.json"
+hash = "00592126e0bc7e41f2ec617f2f1594be33d9388b0222174aeefa37998d5c5589"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/resourcepackoverrides.json"
+hash = "e597c82e8b2d7dd7759c8669b58d59844896364ed0173c9ec40357059e574d7f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rocks-common.toml"
+hash = "857575ce84760785fcc8961d6c88870dace0548cbb45e35d11275d822b126ff2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rogues/effects.json"
+hash = "5427ca4a0115db731f65ed2a0e4ccd61b33985bd1d86466ca0759b4fc3a1da5b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rogues/equipment_v3.json"
+hash = "9b0f6fda6333b518194be5ffb3cad18521e83f05054d7a7b2527108601982a1c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rogues/tweaks.json"
+hash = "a306759fe0cc550aa2ce6398373af9824f143626e6bc0e06678e031bd46cbd6c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rogues/villages.json"
+hash = "df238509966b714649d6c7166fa102ea68863d265e6762bafa89577943842dc6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rolling_down_in_the_deep-client.json"
+hash = "7bd28164d9f145005efbb89c515b8aae8dee51e998b92784f48837db304ca8a5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rpg_series/loot_equipment_v2.json"
+hash = "def36ccc6f024b1fb9686148d62a9b58637acf227a6dec37fa536101736807c6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rpg_series/loot_fallback_report.json"
+hash = "7cf5e831b0c5f3d7f39c5e3d35c9bc3fc09b5676e2d86279672ec565c53f978f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rpg_series/loot_misc.json"
+hash = "9c2a19fe10a7b6cb5ce5bec7da83bd37d348eeace71157c76697ff9371b172d7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rpg_series/loot_scrolls_v2.json"
+hash = "97635814eddfe6c691c13cc25c01345b9da87a7588e3b5af11d1903d6e52cf9e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/rpg_series/tag_cache.json"
+hash = "65e3bdc572a39e09d88503a07fb06b54fc0a83904a02705d509f14197dbebb11"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/sable-client.toml"
+hash = "5f816a5d7d32cc56ff3f26e3adbb25c6bfea6d81aba088cca9e00d42d73753e4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/sable-common.toml"
+hash = "43d5cdfc1997a8aaabfc301e746b773319999d348661a1a7a04b37a70fda93c1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/sable-server.toml"
+hash = "9c3e9012ea23ca1449fdfc7df7a8134d4f0f2eacc46f8f8c1ab9ccb2b4510783"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/simple_snowy_fix_common.json"
+hash = "df2f5f82cd136174167bf1febeaddfd2bf86ccf60c61d90afa56f81abe04d2cc"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/skill_tree_rpgs/effects.json"
+hash = "6a536b0a67d857d51af410e3dd438402fc6cb040ba87ab347498d5048d6c8745"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/skinlayers.json"
+hash = "b01f5203bc2d2ba6270dae6498b7dc83e061f369e694260fd51b7db276b0fd59"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/sleep_tight-client.toml"
+hash = "65904324e0a001d918c307f9656d461e33559e1596308820f8f6d1d91be6bb32"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/sleep_tight-common.toml"
+hash = "00e119299b782ee1efda52ca259462250858cfe8b8828beb3cbcee7cf758068d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/smarterfarmers-common.toml"
+hash = "33a98fc0b006ff59627134cf94fa1bad8714969f33da96553ce51e792851436f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/snowrealmagic-client.yaml"
+hash = "34909564dc66fb400f716437577c349965144e46febfb432a388aed3b0fe81e9"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/snowrealmagic-common.yaml"
+hash = "e9cbb9b8671d14207841fb4bc6aace9a171840c3a5acdbcbcd22691439cc9da1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/sodium-fingerprint.json"
+hash = "bdf457d8340fc51a44c7579c74eed53f9a12caf69bc8b106e58e9e36a7a7d492"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/sodium-options.json"
+hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/sodiumdynamiclights-client.toml"
+hash = "a3ae9c5ce7ff2b9a2aa8d1a5809a2c67c5af170535fe126f64ca84fdbdab86e7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/solcarrot-client.toml"
+hash = "7db98869a1d16b8b07d06afbe7bf8077e3de35fb9d6f99883609cdf3325b0069"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/solcarrot-server.toml"
+hash = "8768111e4e0a6c4eb2739f3d1976d606fa51f79de025f7c4efa0d1df57554a83"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spark/tmp-client/about.txt"
+hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spark/tmp/about.txt"
+hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spawn-client.toml"
+hash = "1e788c7324070e4aa43680d3acaf2433d03f71f624b6819eea2ff92b7789d18f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spawn-server.toml"
+hash = "517451bfe5909a24be412277d5e4e9d2dd382427feef4c6503e4457c5ccc5fed"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spell_engine/client.json5"
+hash = "cbbe02482b857f1d1c460649a935a6232ce6ad17680f52949330e4a3036eaf9d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spell_engine/elemental_weaknesses.json"
+hash = "6979c988ceab84dfaca3aacb4c60cfe067987f6a323c8eaddb911ffa9a257219"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spell_engine/hud_config.json"
+hash = "b3342d39bea6633b095b67dcb7d6fbccf07ea9ddd19116ea4ca2cd747861f318"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spell_engine/server.json5"
+hash = "a1f8cb3071bf9db94ff246eb94607be6e206ae58798555eec04c7ec53ebe0db6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spell_engine/spell_container_templates_v2.json"
+hash = "acd0869d6cce36ffe7a6f44db42c7ad8aa66183d94d05a9740484da9766bb972"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spell_engine/weapon_fallback.json"
+hash = "9962841ccc06487c97ec1d4bdac6a505fcbece925c978ff9b4e866f2ad6bab8d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spell_power/attributes.json"
+hash = "a027f8bb5b55291878216d97bb7e059e8aa542255dc23153dc207cd1e7469b27"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/spelunkers_charm-common.toml"
+hash = "b81012dc581f2cc4aafe3ab13642238ed957aae84da7974a4812eff319ebc898"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/stonezone-common.toml"
+hash = "d1fdf4ccb1c32189cb13df29c243dc919e406ceffa33c5b45e7b9e31d495907e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/stonezone-hazardous.toml"
+hash = "eb075cff33bddd4dea5727f79e6aff1d137c961dca8813f0394b27b967566ff0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/stormiespiders/non-climbable-blocks.json"
+hash = "a2dc02a71020a0056bed420d58cdc2e0baa01c33fccfd1f2bd96c1880bd14abc"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/stormiespiders/rotation-overrides.json"
+hash = "d53f4c37a8d1d28b4bd8b72205bcc4f9f5a50c6b57dc2efbe0c6d5331071186c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/stormiespiders/stormiespiders.json"
+hash = "c8c24b97720a02ec698726cac1147910dce5b685ce1b36c5050d442cdca4a4e7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/structure_layout_optimizer.jsonc"
+hash = "f444999dd9a66b3fa806be94421bb7fe82fd898f91f3bf29a4aaab4e8f5cd95f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/structurify.json"
+hash = "fec0c9e94f14b084a990cfb095555b2a9f84ffd19a7c518aa2b54fa4db0d35e9"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/teallib-client.toml"
+hash = "5e26a7887e2271558c8b65e456b2c7cc040469cc1c21ff78ad727623c0a87296"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/terrablender.toml"
+hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/the_beyond-client.toml"
+hash = "09cd138f32e5cdfb7d00d748417a36fa4d89b1c19a352be70e9fe47b80c6332e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/the_beyond-common.toml"
+hash = "7da9d9bbb0b8a87c50f59971f506e09e0bcc82dacacbbbd90eccb0d2a6d57672"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/toastcontrol-client.toml"
+hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/treephysics-client.toml"
+hash = "8b81e428e48334335233d4eee06fbfcd4b55c4680fcb2e860dd0090f9f52d15a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/treephysics-common.toml"
+hash = "636bb9fe8039c9e756fc249412195ef3682ba16edb90b1d08b5011d79b4d283a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/uiquest-client.toml"
+hash = "78ff1d625e6dd2d07cfaaf146269cc8647dfbef2557865fbe8676fc3d57ca934"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/uiquest-dev.toml"
+hash = "91b788ae930abcc5dba97a8808fe25245ad198d2138ccbf987c89dfe60e98139"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/unearthed-common.toml"
+hash = "7e02a923f849fae4a94657e21b606c42e5320d57296504120cb9b8fe69bccc23"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/unionlib-client.toml"
+hash = "7aa131e728df395cf5d61ddef09e6979706b846e68ed4c4b65d3595bc5f980a9"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/unionlib-common.toml"
+hash = "5fcd5793de154b99c3eac8da908e3be12b5552058b3e5142c6bf699c75bf2c54"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/unionlib-server.toml"
+hash = "b866ef93b7aaf4f256e4f406bd2e0ca6c58c4ddc967b64767ae7d50d066500fb"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/vanillabackport-client.toml"
+hash = "52908e6b607acb0132818d29fd7c2fcaf02dbc8b743c509400db8f65f1e00eb1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/vanillabackport-common.toml"
+hash = "15c887868f49ecd06f43c62a6a98fcc1503908470f317f5a257cead14b1c4d38"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/villagerretaliation-client.properties"
+hash = "cd097146ebb53bfb76fb71d31c58aa9ef670ee7a367154ff215f300eeb148cb4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/villagerretaliation.json5"
+hash = "3f6e04ff35eaff777dd87d4679077c50c6c0face8d0446e02bbfcccdf8a5f3ba"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/villagerretaliation_beta_13_warning.json"
+hash = "2a9fe0db98512f4571b732783f3a457f67c45a8e8a426b9aebafe40eb55b6e10"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/voicechat/category-volumes.properties"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/voicechat/player-volumes.properties"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/voicechat/voicechat-client.properties"
+hash = "bdb75b624a5d37cadd1d3e4558aae24bb12ce67cf27d832f7ede4f1bc29d7d08"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/voicechat/voicechat-server.properties"
+hash = "cf7e4d387b04e70d39b49addc41a4c1e7004b6d4f289d5770e0c233eead1a808"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/voicemessages_server.json"
+hash = "909d7276fcf8ff75d99ebae8b6689bebb5d943f47f58574e7b8f2f1fa9ae2919"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/voidfog-client.toml"
+hash = "81eaf8712eab738e0eaaa7db04a2a70beeef15b698873325d1ee982ca51f87fc"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/waves-common.toml"
+hash = "b1e41926eeadb1b00a7225f1ff8a382d1e4b4e0d67eaf7194554af3f23db11d1"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/waves/waves.json"
+hash = "b313ed99c44ebb415d36ebb994cea5a6a1d8f741ece1067b60eaec722faab42c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/waystones-common.toml"
+hash = "5ea3931a0119ccf5f495db5299be1ef5716f5eed478236fb0ba576b6a9ee8fc0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/whaleborne-client.toml"
+hash = "58ae81ea048849f2fe2e88232779439388eb500d1d9981396a1e0311aa8c575f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/whaleborne-server.toml"
+hash = "a15ba2fb4d7e01e6547bb5755c786ed8ef1e21b0cec7dfaaafd7885b0ed11069"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/whitenoise-client.toml"
+hash = "00c6e34f0adbb41db954d296fd7c55dc3412463a38038dc836626433dd7f6d92"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/witherreincarnated/client-1.toml.bak"
+hash = "82c1ee827a0337e3348427e0cff1dff9df9983cd9a56f307ac7935f1514560c2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/witherreincarnated/client-2.toml.bak"
+hash = "82c1ee827a0337e3348427e0cff1dff9df9983cd9a56f307ac7935f1514560c2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/witherreincarnated/client-3.toml.bak"
+hash = "82c1ee827a0337e3348427e0cff1dff9df9983cd9a56f307ac7935f1514560c2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/witherreincarnated/client-4.toml.bak"
+hash = "82c1ee827a0337e3348427e0cff1dff9df9983cd9a56f307ac7935f1514560c2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/witherreincarnated/client-5.toml.bak"
+hash = "82c1ee827a0337e3348427e0cff1dff9df9983cd9a56f307ac7935f1514560c2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/witherreincarnated/client.toml"
+hash = "82c1ee827a0337e3348427e0cff1dff9df9983cd9a56f307ac7935f1514560c2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/witherreincarnated/common.toml"
+hash = "90ded23667c8a736c1e06b8430ee7d2d1a359dc09ae7674841e11a574a3a6913"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/wizards/effects.json"
+hash = "9ef38cdd36ed80352e4a667a2cf3eec77d894c26aadfe031238f7e1161c7dcbd"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/wizards/equipment_v2.json"
+hash = "ecca3e91dd3eba89a4e02f29bfd9f4cef13a1bb3761e2a09e3c4756c3ded3139"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/wizards/summoned_entities.json"
+hash = "177d6e60c92f76f62806a5bbde167f2ac6a0eb752cbee91adecbca6fb97489c2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/wizards/tweaks.json"
+hash = "4568418cb62da85fa6a4a88a5c332d7c786ba3f4b872d7dfc05b09619b85c9ea"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/wizards/villages.json"
+hash = "4f7d44cb2b2588446db0886af941fb2c4194d15bfba7d303de1ca0d2879cff31"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/woodworks-common.toml"
+hash = "7c2f4b02094bf2978c37239b6a56f84423d3c26948b20e5ce60dade4c2359e6e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/xptome.toml"
+hash = "308c7ce7c6c19e00ba27919602663af528964d03ddcc7abf6efcbe45d4b17337"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/config/yigd.json"
+hash = "01d786aee2f7eca99d6b043a1bd1dc06aae50b8b96f003310fcee8213e668228"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/global_packs/required_data/true-ending-v1.1.2d.zip"
+hash = "1bf1ecc56d9dd048096a1dd7bf7c5bd2a90dae44571cccce7fd17f8b3c86ea0d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/global_packs/required_resources/HumanEraVillagersIllagers[3.91.6].zip"
+hash = "9304f0e1a858cf7a057c67a68f10c20bea2a5af2d00d83c8badcc07287e93a52"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/global_packs/required_resources/VanillaTweaks_r727967_MC1.21.x.zip"
+hash = "e5615d24590734a6503a843bb429a3cf9a01b3bb9c46239149a55792d94f0303"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/global_packs/required_resources/VillagerRetaliationXHumanEraVillagers_v1.1.0.zip"
+hash = "213eefcfb461596ae63ed565c8df367150d8217040b3afefec1606f67d3ca609"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/global_packs/required_resources/true-ending-dragon-music-v1.zip"
+hash = "d4ef3ac168e43661cecc7349f67bd034961de84c116f7356b22ec3461446defd"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/index.toml"
+hash = "6648d2d2e77ae8e3c8438866b2a0a5152103c2b237c5d89904e7e68618013e81"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/client_scripts/jsconfig.json"
+hash = "d2a13306c453d92e9fe31b499b657a16a5083b1471850216a5a22d9876520e17"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/config/probe-settings.json"
+hash = "a27589e3dc2de58a0b5d36441f7c27bd288ad4ba990d14b3be6eb9706f86f18b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/config/web_server.json"
+hash = "8b853c84406bf64388e0a62a7349158da75a3d7c19a9a75a67c3087d057d159f"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/botanypots/idle_hands.json"
+hash = "ce2838f15065a336b6f1069fc2f92cd3c817719ec2e8eaa8cc68f54a50cdbe5a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/burnt_additions/blaze.json"
+hash = "8b7a9deb67445d15881a13021c6b783a25e28a26c463f0fb90028b239257af7d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/burnt_additions/soul_flame.json"
+hash = "edffab879dcf9dbf6523aaaaa4344057e199e0590509a76807667c3db7b429ab"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/caverns_and_chasms/conceal.json"
+hash = "a2bda1b6fabab081b666c67ff7e1506f6bcdadb0bc6343842d79c27bca78b5d7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/caverns_and_chasms/extending.json"
+hash = "9a8b4208f6845c87918d4973eedf4bddd17bf745032a92750dc1a248f402b4d5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/caverns_and_chasms/obscurity.json"
+hash = "2a7c1a7f0bff0e142288fd45567825eb73a27b67f87d59873d7eea9ecb7a243a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/caverns_and_chasms/sky_set.json"
+hash = "a9fd1e5d28a4346ea4cda110a6c0b5636025eca6bcd5ffe4b586fd33d724448d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/critical_strike/chance.json"
+hash = "1b1cc27ad417d846fbbfac8754aa7455977d7b37d8ea3b42ec1bba242daacb24"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/critical_strike/damage.json"
+hash = "1b1cc27ad417d846fbbfac8754aa7455977d7b37d8ea3b42ec1bba242daacb24"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/durabilityreworked/fortification.json"
+hash = "db9756b40dc6b5e761743b4ad5a253a03a78681973cf64e412f8d06c0d826420"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/farmersdelight/backstabbing.json"
+hash = "15b357f7b4ec381b1e181d2fcb05a95fa46b310fe9d8043048ee99f58f024707"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/more_rpg_classes/stonebloom.json"
+hash = "30210eb44f40e855c8818312874e29b3270cf60177dff1797f9e1e0dcbf141e2"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/more_rpg_classes/typhoon.json"
+hash = "c5f281543b610350ccab1cca34be6eef1dec384ddbf3ff85e6dd290800732cbb"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/mynethersdelight/poaching.json"
+hash = "06eb419232fe8fa572ce76dbad8d8ab04094e455330a24a2b4f4b4207cbedae6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/netherexp/counterforce.json"
+hash = "364410330983c6879457b9e9e44b5cbcc8df89551ffb28864280c9bcb609be5b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/netherexp/longshot.json"
+hash = "80e7a5f67abc9bce248949d6b70b8f4fcc7552a7e824baeab882114a1dbddf2d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/netherexp/recoil.json"
+hash = "a3bc4326d8727c7ad8d3cd8a7be35bbbc7bbef597edbdad7688e239b75dec4e0"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/netherexp/volley.json"
+hash = "a8908280c4593550f403cef08827d928a1889af3c92b069efcee1b98fb0c4d5c"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/spell_engine/spell_infinity.json"
+hash = "2528eaca591b3fad1b29aaacc41cfe845eadd036b231ecd68c8aae8b918eb5ea"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/spell_power/critical_chance.json"
+hash = "23dea8961ec13076b0f0d03e96b160945f4e28732481f1451317717e522416b7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/spell_power/critical_damage.json"
+hash = "23dea8961ec13076b0f0d03e96b160945f4e28732481f1451317717e522416b7"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/spell_power/energize.json"
+hash = "442d34716f43940cc618978866bc622454f482017282bbcb13fb937591376c15"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/spell_power/haste.json"
+hash = "5be1f2a131ddc8663e1dac51673234f16eb362e9635328a8c64491e943be2877"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/spell_power/magic_protection.json"
+hash = "f4a32f20804e587ed04be1f2f5559ea69afdfc862a20c22c303f74c719da9d3a"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/spell_power/soulfrost.json"
+hash = "4f8d1d4cfb85495d10c7007a4e45fe5c75820e8634d85588b41fbb889f18d1bb"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/spell_power/spell_power.json"
+hash = "5661f94aa4f030b91e896ed7e9f826e7a5b8bf40b3c108fd82832a95fff8a59b"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/spell_power/sunfire.json"
+hash = "70388a7e79f08dbdbcd2dae80d254caba2ede944f3e009b71e6aaca0b3b92ef5"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/yigd/death_sight.json"
+hash = "17b73cb412b801026e76f5fa5f6ab82702812fd0e1ddcdf6e05b0ff012aaa5c4"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/immersiveenchanting/enchantment_costs/yigd/soulbound.json"
+hash = "3fa1f62df15bf38ed1cefac106da883933a8850c300f716d2d1c9d1889e6ca9d"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/sulfurnitre/loot_table/blocks/deepslate_sulfur_ore.json"
+hash = "e78507504b864da104d7f360aad2f3f167c0aeeb493888642a843269f140e8cd"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/sulfurnitre/loot_table/blocks/nether_sulfur_ore.json"
+hash = "3e7ee90c5889c5c192f9683f2127a1a7e3587fa2c09438a3aaf7abfcab9aae96"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/data/sulfurnitre/loot_table/blocks/sulfur_ore.json"
+hash = "b826d84c2759677d1fb4056ebab5565811066068b4ea6525a4d0ce25f37eba30"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/package.json"
+hash = "f312a1006906fb7b7a409715c0567b4fe169a5346cb966143b63b64dc8dc16a6"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/server_scripts/jsconfig.json"
+hash = "76baa3d2717a253e959bff6e1468592ebd9ec417e44e7f46846e57a4ca636c79"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/server_scripts/main.js"
+hash = "915a2a9e99e00004941fa59e7aae94e9af8eb193832a5e1d090474ec7066e375"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/startup_scripts/jsconfig.json"
+hash = "c598d8f9710af7a23f92cdd9061894afa84b2380377a66e15d293e769c998f97"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/aaa-particles.pw.toml"
+hash = "29aaca67d2569d546ed5057425c9c45e80bc1513cab9be8667d0ffd096783ca6"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/abnormals-delight.pw.toml"
+hash = "080f71eb7923d39fdf97ed1880ddc79e0c636a267f3f0cb9a27731f84810e3af"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/abridged.pw.toml"
+hash = "1d311fd70f90631c33fc2ca54ee85946b6c594a91c22e6e448eb46774c0ebd52"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/accessories-compat-layer.pw.toml"
+hash = "0085d9a1eb73a68fe1d07f26b27fb93b0e1a582ab0f47d068fc94d055165aa99"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/accessories.pw.toml"
+hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/actual-fishing.pw.toml"
+hash = "14b1efaf1bb44f455ad21b9b3ed5f87f60f5f493e630210c3041ea1c05f3b048"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/additional-placements.pw.toml"
+hash = "a4e2304164d47155e9769847ae433ba42315269a916b3552d83811191e743f38"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/aggroindicator.pw.toml"
+hash = "7ee2f816f9c1000b46a1900c94966990f7bbf171284b736e153312c9d14589c5"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/alfinolib.pw.toml"
+hash = "e9863f95ed3cf645455980dcb770a6bef111170bda91e63fb17ccaa8cc98b242"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/alloy-smelter.pw.toml"
+hash = "c4c10148bbd6068ef4389fc5f3a7ec47f7311c0ccd4b92facb7b242f7cda5cc2"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/almostunified.pw.toml"
+hash = "3e902846339c2bb422d614993ba499fef007f185c9c29cb55804e3270ebb5ef7"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/alternate-current.pw.toml"
+hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/amplified-nether.pw.toml"
+hash = "bab5e563745cc5de2b70d95706944a1daccdb00dd06c77a955d1455e7b1bb039"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/anvil-repairing.pw.toml"
+hash = "9cc06ea77d4b47948872413991ad0562d722ccc62cc9804205c408ceda6044c4"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/appleskin.pw.toml"
+hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/archaion.pw.toml"
+hash = "1a9f2c8d93b08d17cdb143665fef4107a03410ff21394458c448eec796487511"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/archers-expansion.pw.toml"
+hash = "ef154cfe8126c30f6d885f5fa2e5d2a9802b14d9da21d406e11e5758ef1fef16"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/archers.pw.toml"
+hash = "bcb893474e28284f71b05d69ab9c42c67e741be11329c8fb450a601064c29e66"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/architectury-api.pw.toml"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/armor-3d.pw.toml"
+hash = "1a3e47f1c94a52b8fc5a99ea5f724ff7c74ef6a5d6af623cfa8ff6ace62106e0"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/armor-model-api.pw.toml"
+hash = "65f6753a4695683741492493fc15a189c7ad118fa87c2646e3c331e847124855"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/artifacts-delight.pw.toml"
+hash = "39522cba5fd9b5b8a8ef62d4046acbd0d056382f6bbef5a11f40a5b9a6dc8185"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/artifacts.pw.toml"
+hash = "df0b0f316ef6a5c3225f8ee00e53085b404b4388bcf8f118b0be1835d4daa271"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/attributefix.pw.toml"
+hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/audrops.pw.toml"
+hash = "2800cec961266d55c97631cd8b81e848c6e2ae71b89cd9102d60c550dcf63f06"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/auroras.pw.toml"
+hash = "22523481b7a5b3be8e086462d6598a209d5ccdd3fea0c6a2c6384e9aa92b40ec"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/baguettelib.pw.toml"
+hash = "1b05fef3e281c8c9bdaa86a4e1b21ced7b363424df48c34a9494ec723c618d1f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/balm.pw.toml"
+hash = "0f6b24d697903dc261c881c4a736ec57c57ed5384f23d77ca9f6cec1e954d559"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/bard-more-rpg-classes.pw.toml"
+hash = "d0253ee4a33596fd14bb4f639e65e43ef84381b4e57a5fa1e58535a88ccbe917"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/berserker-rpg-class.pw.toml"
+hash = "81611a2e7270e1bcb13b43be844ad90f50d3e9cc996863fd135c79590b49f71b"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/better-advanced-tooltips.pw.toml"
+hash = "9009bd5cdcdbc6bc47a7fbb203844d9a551accdd796877bdba5233ac14bbd513"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/better-beds.pw.toml"
+hash = "82f1197105bf4c364f4de075ee497b044bf44796aa2d840e67d7b2a1f0ac765f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/better-inventory-and-backpacks.pw.toml"
+hash = "dcf4097a88b5b23c4ec53c3c2099329336e875977c821686583e7a05c9a430e8"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/better-modlist-neoforge.pw.toml"
+hash = "fdbb9ef76ac27fcba0c93c62c2218f9eff6951dc1f9aa807cbf9395b0ffc22b4"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/better-party.pw.toml"
+hash = "6676720fa48186b97ca74fa9cb6dc1466f316b2543a5f0695227ce536ea20d38"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/better-safe-bed.pw.toml"
+hash = "2a843563e256114ba1c6381e3d627e42652cbf4d17668841256267affcb43610"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/better-tridents.pw.toml"
+hash = "f948b2cbe17ba9b70da1c32550e5149f9224d1ce00b10ce86e3d3e61844a459f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/better-world-loading-forge.pw.toml"
+hash = "ba6300f8b73556615470c389c84dd3a594ffc9d435ffdbfa4288351f27017139"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/betterdays.pw.toml"
+hash = "72ca919be55dd04a4d8369ef530427382fe6c4e6df35c4d3d67fbf0ff365622f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/biome-spawn-point.pw.toml"
+hash = "4eac5acc79c1dbf32c4cd6241c956b96f451c0c2501ada660147a1f8357e6903"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/blueprint.pw.toml"
+hash = "16ba84aa4357c8ca27afc6f92225b94ae4a965dfef3eed9240c3062436e1fd0f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/boat-break-fix.pw.toml"
+hash = "f60a63c3251ebf33f6636e5fd773f281d3f09b3a273e346b1d2547cc0c67559b"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/boids-reforged.pw.toml"
+hash = "71df8ab189b1ab63fcd9248a32da10fe3e90872a731fcd9a8e244522bd07c2ea"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/bookshelf.pw.toml"
+hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/botany-pots.pw.toml"
+hash = "f200a085681a40047222b701f6a52fc098b51702a2debd909d1789fac78a9c38"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/bridging-mod.pw.toml"
+hash = "e5c9649e2e622248382ac05979512e14e652b32fe31e592db3b4aef9fc2a9488"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/bucketlib.pw.toml"
+hash = "ab8a7a9f9f3977624dddbc7f10344c45f52e39ec542f848a125aeaeca40369fa"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/bundle-api.pw.toml"
+hash = "6ba13de15147a3668b8b9272807da65e081dc1516f5581ce050c4aae8c2c109f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/burnt-cold-sweat-compat.pw.toml"
+hash = "ec0655acdbc787a494b36180923cd5528eda25f48ca2a6bc0f2cbd4255572b11"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/burnt.pw.toml"
+hash = "e0c65f553f54186e0c9761aa58cfedbdc1b883b7a21fe988de371b8db9ac297b"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/caelus.pw.toml"
+hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/caverns-and-chasms.pw.toml"
+hash = "4b7363ed836fcab7e4b4632f1b1dd57dec3bd39d93856565a6b7bfa8b3dc8825"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/celestial-artifacts.pw.toml"
+hash = "f18378bdf45499e221055c726eecb9b7b7d859ace5a098233d7cd0698a944634"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/celestial-core.pw.toml"
+hash = "fd864482cf91792e9f317d5d4fe9ef5c097edc5c78ae2343d5fdd39819260cd3"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/ceramic-bucket.pw.toml"
+hash = "5236616c5a6cd9fbe09e0e1ff1c86dab901c9e91b92aca8f23ec3e4c130c3f29"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/charms.pw.toml"
+hash = "7e7ad919d76ab722c7ea77eb470bf5c77aff26dfd200fadfa253dcf8710dcf41"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/chat-heads.pw.toml"
+hash = "16431ebe23e08d1d98e28e51ad76b675f2a7ed8a79234b68cb9c122a768cae5f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/chatanimation.pw.toml"
+hash = "cfc80b1d3ea9042cec452a25b1f5061a32c2bdf455499a4fba25d0d9c102e1d2"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/chatimage.pw.toml"
+hash = "6d77c7de78856217971f9781f02459869f91951a7cc94cc673464af8392d9378"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/cirrus.pw.toml"
+hash = "6b234e8a1de1b98912b1b74a5a7a38699210f532ccbd5b11f3ba6b8aebc21fd9"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/clayworks.pw.toml"
+hash = "1a5e1f4c0f3681ffe737efabf3efa5212987fcbe62fab840f65badfa70994418"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/cluttered.pw.toml"
+hash = "4b542e562c85faa3531ef7b1dc05bbe3be423e76f78e1e63ea9508e2c11460ab"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/coastal-waves.pw.toml"
+hash = "63b5fa8e96db156a0bd2b582fff3172fe5818832edee4cefb358f00a7635c206"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/cold-sweat.pw.toml"
+hash = "3dfb821142705cd73d18948cb67e600c0e94491e439616d5333f883835e39661"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/collective.pw.toml"
+hash = "55dc9daeb96d489b32543035fb05379ba25d1305f0dcd1c42d9322e85e20402d"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/common-network.pw.toml"
+hash = "e5052ab66811e9217d662d712781796c72f7105fbbc81e1de3469ccf6178d5a0"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/connector-extras.pw.toml"
+hash = "179ec97bb6d278f2012c725fdfab2c5b00adb529e4f720587ce6c3409aaa572f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/controlling.pw.toml"
+hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/cool-rain-reforged.pw.toml"
+hash = "088db35b655435072339181305f1f401f0d20c7a1f8501691568d85bc8cb1c1a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/copper-backport.pw.toml"
+hash = "fa36ef4104253e0ae197ed5b5bf975b5166ce76c7f116b1a1ad8b9c7d27024bd"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/crawl.pw.toml"
+hash = "f4f8b5eb8c1427b6bd83ca70a3dbec9845b8c5a37b9ba72b9a49ee0e45136562"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/critical-strike.pw.toml"
+hash = "844ede3e52ea9d989d7280e955113c193c9974c5d6eb76a760241b4db3946fb9"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/cubes-without-borders.pw.toml"
+hash = "9441e0a305d19725ed73bfe5199263bc1617e7fffc67bd56534ef89a294535ed"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/cult-of-azazel.pw.toml"
+hash = "bb1c71b132a3ade87947ed2447a6ab59a54feb40ea45b42e1d22c51c3d92088a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/curios.pw.toml"
+hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/darksleep.pw.toml"
+hash = "157fde2866101ad91b70f154a5c51156308e30e4408dc19045762865a8f750e3"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/deuf-duplicate-entity-uuid-fix.pw.toml"
+hash = "f1416d05fe4f4372df4843f3e66a9821230c495f98a3c6bf32755b39ca7a775d"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/diagonal-fences.pw.toml"
+hash = "db153992e71c2c1ca7643ad93d11f1276cada2843879cd01909abef2f2ed9df9"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/diagonal-walls.pw.toml"
+hash = "36899ae409d7c9bf4a5b322328f3eba6c8de4812a4f8594140a4953b05d62f88"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/diagonal-windows.pw.toml"
+hash = "5280e0bcfa648658c572b9ffa12ff5e39374923b30c732d3ceff4ae7ed9228ff"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/dimensional-sync-fixes.pw.toml"
+hash = "4355413ebfa718e1fb0f2868c3dea6ab85974e668f337f010293a5945cbbef56"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/distraction-free-recipes.pw.toml"
+hash = "df34236e43c955ceb2b0a267ae280bc3adc747d71d70aa6f58a5ca3bbe2e895e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/diversity.pw.toml"
+hash = "55939e02f662f829f2f002529c1d82984a5f5c97013d334b27c33de6923a5dd8"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/diy-campfires.pw.toml"
+hash = "996c0e465f978099311ccfe27b7cda866533d2f9ba0b648c1d266050bebb7379"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/do-a-barrel-roll.pw.toml"
+hash = "c9b54cf4d9c12a8b612bbe6cb65e9977216d50110cba8757486b171076c04da8"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/dumplings-delight-rewrapped.pw.toml"
+hash = "8a736202905e37b8b2d5a1cf0919642ab4debede147aafd2d1c63365a0f5f088"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/duplicationless.pw.toml"
+hash = "981fb9251bce1e694272d49e0fc0f6b4632bd7ddc2f9f5396b61a365f2ab73bd"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/durability-reworked.pw.toml"
+hash = "4e07310d97a21cd3b8fe4841b4d4b9d93e4f03e85ab0981a0731a15f060056aa"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/durability-tooltip.pw.toml"
+hash = "a2ae77dfbfc1ad33356d44f9546e4203d81279ef2128c81530c6d9d089f66087"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/dynamic-asset-generator.pw.toml"
+hash = "7a4a3b1406c8c3a999958c6a42e95deacbc7bfdeabb51d1fdfafeef36879b54c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/dynamiclights-reforged.pw.toml"
+hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/easy-disenchanting.pw.toml"
+hash = "bc348d78c564e66bb4109519447eef1322c3cfeb28da458dac87652d6f111882"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/echo-chest.pw.toml"
+hash = "8a177682de1803d49edb28fbfdf6ce9efee8b637a0cf18981cfc96623b5a28e7"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/elysium-api.pw.toml"
+hash = "5795213756e24f7cd4c409a688a4049673dd8db6e89a8622b18f5a8228641478"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/emi.pw.toml"
+hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/emote-tweaks.pw.toml"
+hash = "487c445aa59e7c0e39b6865581365b1887b899a426c149bb45be518d1fc556a5"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/emotecraft-forge.pw.toml"
+hash = "41da9deeec5e9e6f3369f890a9f459d3dae3edf59c7072cb7c5dd26b953bf7d7"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/enchantment-descriptions.pw.toml"
+hash = "f9e6dd1d85322833d9d3440446e569340ef52e23a5ce2149ddedec1c49b24efc"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/enders-delight.pw.toml"
+hash = "1598c4eaca8666404c4d1dbf117c7afff4aaa384cd3d4dc131a8a11b7dfc1616"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/entity-model-features.pw.toml"
+hash = "2e82b0238c24e7522ddffec066b0be2cfe4faa18b1fb66d9496734ff7a658153"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/entity-texture-features-fabric.pw.toml"
+hash = "20de659318ff023d1d7c99d360eb8e33a6053c3564d1c702ddaa7fcfc63e693e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/entityculling.pw.toml"
+hash = "b3cd138187e5fdcf1c7c9df852ce4a91e29898a22b8d9d78caca7a100fcea12d"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/epic-structures-dungeons.pw.toml"
+hash = "755a3ec4108b4888848a3d1e5202e54e7a8073fed7a8a5c967fc9355538498bb"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/epic-structures-jungle-temples.pw.toml"
+hash = "42e2e13828c5a32ea84f1f0a757f1fd7972041e661c929591add837036ecfa40"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/epic-structures-witch-huts.pw.toml"
+hash = "c301df3d954bc964ce49195bd309729672759d9ef50d646a5030bbca27182d6f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/epic-villages.pw.toml"
+hash = "914e26c7494472574cc5db50a088d066fe37ad3fd45aa979f6f6b91190d1a857"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/every-compat.pw.toml"
+hash = "6c98a1b597a8b166b16ed919fb984df65aec3468906ba6e838e03641dd9c52ce"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/excavated-variants.pw.toml"
+hash = "def96d018dbaba2c4751689f6514f1893fd00af688ff89c1884e3242130ad29c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/explosive-enhancement-reforged.pw.toml"
+hash = "2a4562ad448ede0a6dba2f912751aef4bed7f693963e0d3eeb11f87c94993211"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/faewulfs-lib.pw.toml"
+hash = "522b9d690304363d886fc35d3eeb7cfb65f97325fa717a57786f7dab1371d86a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/fancy-toasts.pw.toml"
+hash = "ee614e98c0481871ef58747c2b3bac8b3a73027675db3cd9cb9872144533fc8e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/farmers-delight.pw.toml"
+hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/fast-item-frames.pw.toml"
+hash = "963fcd6045fa12baa20194e6097e7ede8114da021966f2b29addf72776966b52"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/fast-paintings.pw.toml"
+hash = "fd62d3616c3e5b0bc4d4c4ec890258bda511f5da662064794d92f0e94f6aaa7f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/fastsuite.pw.toml"
+hash = "83e60a73e109258def123fbcab5cf606857f36feca621a4c40c9d7c10b285bca"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/fdlib.pw.toml"
+hash = "a85ef8504d5bd6fca464cfa59df51af343a5194f5b71ed127197751280d904a6"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/female-gender-neoforge.pw.toml"
+hash = "2e2c305b077eb8c92034838afa52ec7f5eb3163f3883258ca0685de7af65e9e6"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/ferritecore.pw.toml"
+hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/firestarters.pw.toml"
+hash = "b5282e8f87e7f56f0f2b90a28b90ba8ee47b1338aff50da1e828ae57a1cceda0"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/fixed-anvil-repair-cost.pw.toml"
+hash = "9c313c8f644ef124becba07ffc5456b4b4a96f5bb762aa5c66c7027c7e2728f7"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/flerovium.pw.toml"
+hash = "988c6c0843f579257b6e8f730c04912ea5b1d0d47826b10adbf9fb0ac4287287"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/flint-required.pw.toml"
+hash = "a4a8d2e9b2d750fd7188d24ec98a70c272f6ddf0f891fa615d38a5d5fc85a60e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/forcemaster-rpg-class.pw.toml"
+hash = "dbffe56ff20fe7a8c2ed97995e5a62c01473ebfcef572a13bd38a880e8675cde"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/forgified-fabric-api.pw.toml"
+hash = "15219e64b45e53db93de94091172e6a4c5ae9a749710ce91a615c973a552c215"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/ftb-library-forge.pw.toml"
+hash = "2e72d40c6d7b128981b19b71c19d45eb6813f1af87ae1abe1cf92adfa5e8223f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/ftb-quests-forge.pw.toml"
+hash = "93330f6ec85532067df176c6baee0e0f6d685c78088b1a2217726f6421899148"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/ftb-teams-forge.pw.toml"
+hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/fwa.pw.toml"
+hash = "a2a21a0ccd62f47304301f07cf2cd5fd3536fc3b7513924d64a91d028edbcf2b"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/fzzy-config.pw.toml"
+hash = "c6aba607b0c335394c38e9e20fdff3d27c494d944099e6770629e907eaf7e47e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/geckolib.pw.toml"
+hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/geophilic-backport-vanilla-backport-compact.pw.toml"
+hash = "3e6a078509687ba092ff7d2bf64551b3c3bb160fa76dd3d31e628a8cdc7ecd46"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/geophilic.pw.toml"
+hash = "9f978fc40af94a2712a860cccd6cb44513992a1b03ce318b25dcb2de716669ce"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/globalpacks.pw.toml"
+hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/grand-teleport-gtp.pw.toml"
+hash = "d7deb45c4182e0eec3fe7339eb97a897bc5e0b58aa5e11557073c59a8e366404"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/hackers-n-slashers.pw.toml"
+hash = "f9c3b4eb9289f659c36bf4730c8fc49123386d708605e088a80284a742e765a1"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/helpfulcampfires.pw.toml"
+hash = "e26ec308f4b6a82cd0c25a1faf5f9542f9981cc47021fce42c3610cc0183d1d1"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/hopo-better-ruined-portals.pw.toml"
+hash = "87c111d2a61cf5bebcbd755596a97962856c443e8afccd48eb8b5a152bb23263"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/hopo-better-underwater-ruins.pw.toml"
+hash = "68c48eeaee34bdd0d22981a4f85105bc1037d558be74d2c115696430049f839d"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/icarus.pw.toml"
+hash = "953defbbfcdd44a0ee39df756574df666bcf011b4d1101123cace9ee188cc2d7"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/iceberg.pw.toml"
+hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/immediatelyfast.pw.toml"
+hash = "fec42f4ea33169c1ea9c14f6b179325f974367eb7c7082dfffe9c483789a19f1"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/immersive-enchanting.pw.toml"
+hash = "038bf1c9b4b909a87cccae7a6aa6900c0aebb01458f91e561e05185f742e8f26"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/immersive-lanterns.pw.toml"
+hash = "932c985b60d1ad9defb6544fb5aa7b3490be7b6497dc7537b640d2ee060275fa"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/improved-village-placement.pw.toml"
+hash = "814aa044e2b8f4da4df78f9cfcff90f17db7570a7468ace97102e40410e3131a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/incision.pw.toml"
+hash = "5ed3129af736176b9cf906edf70a8a8e1768b13db3bad0c279899e06a2b81879"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/inhousegunspolymer-1.0.0.jar"
+hash = "b7d6cbb143e3b2a474d99ee485923db174691e59fb2c95809fc58a2ad6355ece"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/isleweaver.pw.toml"
+hash = "d0668f8fe20e938584b5611a539ba01d8a7f4b2f8b13098e8a35e2243f59ffae"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/item-obliterator.pw.toml"
+hash = "aeb82b93a8948a84d4aff642bda7e969ad7d0d3182bff327973035ef11ad5a94"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/jadens-nether-expansion-delight.pw.toml"
+hash = "842648cd54f4e6e5f3d41a289221e5c0dcdb13fcd093fc081734d249eb8b9281"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/jadens-nether-expansion.pw.toml"
+hash = "767cac8c5fcf8b072571492c3f820e19cbd596e5706f1d28a189b9f494cac388"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/jei.pw.toml"
+hash = "1852c162a57adb3e790ce993c024626ed62026ff5bd9591fac1be61637deae5c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/jems-fueled-campfires.pw.toml"
+hash = "d55a794bc64871784df16682fed8c9f8099c73882133f543475e369c08003a77"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/kiwi.pw.toml"
+hash = "083c9d609335090c7fd62c13c146c0739306f597096e257fbdae6cdbb1917019"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/kleeslabs.pw.toml"
+hash = "ae8c2feb4f1731d7ddfcd0be96b5d6483a6cdc6f8afac9a810494fe167f884af"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/konkrete.pw.toml"
+hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/kotlin-for-forge.pw.toml"
+hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/kubejs.pw.toml"
+hash = "00bacfc5a98d9b0dff90bbad503def28abf970a2061c9456f721e442bc32ab29"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/l2library.pw.toml"
+hash = "e6b165d55f3c2be33f4cfa1f3431a359c5e8df06512e9ac189ba4d9c6a8d4502"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/leave-my-bars-alone.pw.toml"
+hash = "f6edefa60427039b2253f5aa3166ab7d19dc445004f7f781321d8e0f70437d19"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/legendary-tooltips.pw.toml"
+hash = "90884d8e75897120ad7e7a6fc4ad3ab2a08bcf050286a98cac27c7412e043a68"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/lithostitched.pw.toml"
+hash = "a5021505140d5b7ffa4ff7184e74566a21b4e72a7ae256afeaf1e99e929333d1"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/lodestone.pw.toml"
+hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/lootr-liason.pw.toml"
+hash = "ae798cbfb95c4053a21c5c342dd79e0af0528f4d4e4937c65c429b056fa5e5a7"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/lootr.pw.toml"
+hash = "ff152357ebb175e8e8c58ecda4f9814d398c5668f3311b0ad6a4afcb1dc26d13"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/lukis-ancient-cities.pw.toml"
+hash = "1aade71cc5101ff9c6fc8fc74d614bcd033999843df9323dcf4da5a6f15bd373"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/lukis-crazy-chambers.pw.toml"
+hash = "1e39f9c1cdcd35a2edacc768cf1b987cd6266b17b649d9ee8f28fbe18f3b5ee6"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/lukis-strongholds.pw.toml"
+hash = "3ccc1f7b400eb222d01b1f389c2efcced996958570e8fdc5e0def6d56efeb0f6"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/lukis-woodland-mansions.pw.toml"
+hash = "30195663aa46907f6f3254fdd7db1ab5359e39d608abd61343902462c4ad819f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/map-3d-usseewa.pw.toml"
+hash = "79b4307f906a937da764adecd67156eac85f1eccd94e48dbb7fdeb3816fd47c0"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/map-distance-fix.pw.toml"
+hash = "98d2a82bc9d9352b32b0fe707f3fd71e95aee60203c0969f71ffb5add58296e2"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/max-health-fix.pw.toml"
+hash = "70db2eec093dadc990fe5862f9c3fe59a0d0de53542872eaccb5dc7f54be5fb1"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/mezzconfig.pw.toml"
+hash = "dd3830820c683676dd7e37cbbe906f3b1449f9d3825d8fbcfd148766c073eae5"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/midnightlib.pw.toml"
+hash = "1e7a69de13ee96b512350358c746a7b3bf67b07bc532fe5b26f7b3b3f7ee8117"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/miners-delight-plus.pw.toml"
+hash = "6309c1eba3f762ba6141a0369c5be7673a3056cc3804a8ff424300551157f8bd"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/mmmmmmmmmmmm.pw.toml"
+hash = "9f49c7407a38c6d066c22d315754378e3d1babb4673d62c1531a1453d74090e9"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/mmr-moogs-mineshafts-reimagined.pw.toml"
+hash = "baaf8e67ea58c4d4ba9721d4f47db213cd93d9cbdb33664c91c8a8762a618dde"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/mobspawncontroller.pw.toml"
+hash = "b9ead5edc2e3bc46b8d6b6b6ae02a030adeca2af8c81530866ef7349f522673d"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/model-gap-fix.pw.toml"
+hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/modernfix.pw.toml"
+hash = "1813b429f0782edb4d0c428f00da0c760acea32ede566656588af99c6ad10a11"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/modernworldcreation.pw.toml"
+hash = "e2826a4044ce6c83122eae44d6539a4120dea00fc1ec5f998988f39637aee2d2"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/moogs-end-structures.pw.toml"
+hash = "e609cbd564f8f5b3de178e985f5b6b876a4c36f136c4d68dfe05db5f53e9e685"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/moogs-structure-lib.pw.toml"
+hash = "77ca0e214cfb1d988bf994f7233e8d8c67b54b8c24f38129d26631b0272defab"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/more-rpg-library.pw.toml"
+hash = "701f99d44b0f8412482995bff51de59f4facf3a26a7b2ea58c582f8ab9d595e9"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/moreculling.pw.toml"
+hash = "39b9809482c418152a8fbf57e6eeb319c1b9d1b9bb8655d2518069cd58562daf"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/my-nethers-delight.pw.toml"
+hash = "622f66a4a2c21655005b1b56af83361e7daae270d375d0d5bf38c8a1f78d40cf"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/nanny.pw.toml"
+hash = "6cc0b4f7848405ec1eeab1df639aab3952273c7d0c2b47cc8056b0ea7dd0ff97"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/narrusyeetus-no-error.pw.toml"
+hash = "7997678617745ffb1cb669524bb4a9a27bd77bbf4db085aea8c20d548bd9aded"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/neat.pw.toml"
+hash = "fe7676aaa4477604116c00c3a4d17f49c48fa853fbfab08fe743b6496dc834e9"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/necronomicon.pw.toml"
+hash = "6acba5e53610fc3e62bd9641aeaaba056f99248a2d1d86bbf032061a1e408826"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/neo-bee-fix.pw.toml"
+hash = "ea82354ef4e1fffa1a98740a81966341f097f7423c2adf40c83c68919870c25a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/netherportalfix.pw.toml"
+hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/not-enough-animations.pw.toml"
+hash = "78a453bc5b750d057212b0762e93ae82ea2f360b6dccfe6b53c52d5b6849c80b"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/notenoughrecipebook.pw.toml"
+hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/nullscape.pw.toml"
+hash = "c183fb8843a6c04da0417e5d51c62b2def40b994f0e9f1176243877b104d88a8"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/obe.pw.toml"
+hash = "457c89574005d2ed90cd6f2e062a8f01cb18b844f2ff25b79d70a2e1fb009656"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/overflowing-bars.pw.toml"
+hash = "94e451110472bb47c50bfb8eba8758f2be2ba699b6ddcf4b140b8014a06facfd"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/owo-lib.pw.toml"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/paladins-and-priests.pw.toml"
+hash = "ba7e00969dbc06f1cca19b5efec518fe9558a14c4e26b720f806e8c53699bdb9"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/particle-core.pw.toml"
+hash = "4357774fa2bb92e3d6b75a475c41c4cc314e98af696bf591c47ff2621ad5ecac"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/particle-rain.pw.toml"
+hash = "fe21545aa6086d1b66d96cbd050111d887ecb9bb298a547e6a772f91c5745e74"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/particular-reforged.pw.toml"
+hash = "7d65de9455bb6c263f1e8df1a13a9ba9704e346fa949a1986b88de4ef210ff22"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/passive-shield.pw.toml"
+hash = "ca02c6fc19776518d07d2bbda9867b2d9a8a1bd54fd8d417c132243bf6734c6e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/pick-up-notifier.pw.toml"
+hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/placebo.pw.toml"
+hash = "a80d243759a5998d1f61cab61a9769526c21e1a9ac2f328ec1f213bb97311bfe"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/platform.pw.toml"
+hash = "cf4f9fdb9d7cf582d1068fae6ca9bf7fe6d3f0f1dbb031627f339f73477d325c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/player-animation-library.pw.toml"
+hash = "a4a670f4b467518d39b9d1bc340d4c0592d1319f43adb821c0ebe96bd5f1ade7"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/polytone.pw.toml"
+hash = "864bc2442c2c2a6561abf6db9e527a57a8fac3144c770d4e2a931fcbab97db60"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/presence-footsteps-neoforge.pw.toml"
+hash = "8eed7b899ed784a5d5ed2c4ed4ff1f10a2b650f106f39b3340e2bd6a2a217561"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/prickle.pw.toml"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/prism-lib.pw.toml"
+hash = "5328219480c6d7aa255c6288f2839b683ffc1bcc52449383244cd11cfbf85f83"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/probejs.pw.toml"
+hash = "7efe2d26a41f536a75a615a70216da61b0b39b4039ac24111ca013f4d6c943dc"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/puddles-floods.pw.toml"
+hash = "669a3f1c14121ec62f85ec0e9ef0e886606c850a7ffbce1a648415e4b2df6894"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/puffish-biome-dither.pw.toml"
+hash = "0ae71d97a84151ce780356109d6ebfb41e17de74737a8f89f072a193be3e6c0b"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/puffish-skills.pw.toml"
+hash = "15a8b8583c24b0fa603c19a17bb6887742940ca721b855a5baeb75666bf764c5"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/puzzles-lib.pw.toml"
+hash = "89b9434e40a39e9a2de633b00d8dac3e1081db7c9632512fbc07e68f0ccbe547"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/raids-enhanced.pw.toml"
+hash = "127e210542a0ed91dc6b3651dfcfabb23f1af16ef9bfd9cf9114ebe3478f8bbf"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/rainboows.pw.toml"
+hash = "3d13d6594fa3396e2d06bace18d8aed0f59f3e2490d29e72d199b87db5d96b7d"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/ranged-weapon-api.pw.toml"
+hash = "7b27685bc91fe528edbfbfef08914defd1d66b8e2e064e8ced97441ea51c3395"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/rebind-narrator.pw.toml"
+hash = "677aef260db791759c11414987cb26c1a6a803b6419baf9fced02a013a722ec0"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/reconnectible-chains.pw.toml"
+hash = "e2714c5d8ea4f5938787fcb81ce78f372b8d16f5abcaaaaba36290c754961474"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/redirected.pw.toml"
+hash = "a8e09044fb84c6b63782d68be84c899fbecebf7b70ee3f36a83bcff9e475d411"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/reeses-sodium-options.pw.toml"
+hash = "f45da2d9525cb355c246a0ed35de86f6b78e553dcf69119d05494803a2e43983"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/reliable-replacer.pw.toml"
+hash = "0bcceb0e1f037ee7a89d361900fd13d5e3b102aa8c616de75f28473a4d3d008b"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/resistance-balancer.pw.toml"
+hash = "72931ade47cb4ed0fc5cc1f7ffb7adbe84799f3cb792d290a1425cee75e941ab"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/resource-pack-overrides.pw.toml"
+hash = "63798d5d5dce18e8558415ee791f0928e12ee2bb54ee342f4b81b58f523e3cb2"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/resourceful-config.pw.toml"
+hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/revoted-wildfire.pw.toml"
+hash = "2595aea206c09a84750fd1efa17aade95203cec2e87510203f740e14d75cd65a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/rhino.pw.toml"
+hash = "985a99f7465b68e43b98f3dbe1081b7113d957c7926a8caab163503528910f42"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/rogues-and-warriors.pw.toml"
+hash = "7659201d792a801153b0b846b69b31cb151839f7c136bb79318bc3fa616e191a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/rolling-down-in-the-deep.pw.toml"
+hash = "87994b11c98b24f70279b257927cce0bd85aa1a19513b1bfe9f8fd05529630d7"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/rotten-creatures.pw.toml"
+hash = "909e61e9dcf8c5d4a414d624f6a7a7bf04d61350c831b9386bb4a196f33aee8e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/rune-crafting.pw.toml"
+hash = "dafc4c4162ae0f493b77c42ad065489fbcf7f690d8a2d8ea9f17392805207334"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/sable.pw.toml"
+hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/searchables.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/selene.pw.toml"
+hash = "c2b0d7ec55761b479f0d825516a37d66f95811a9c1d464c9e1c584efe9d561fe"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/shatterbyte-lib.pw.toml"
+hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/shield-api.pw.toml"
+hash = "f1860e58c21e04e2526abd05ed2af3a2bc7433819af4deb60d0ec0aebb14c938"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/shulkerboxtooltip.pw.toml"
+hash = "6b3c65eef473d729266b7467ad8354afb40cdd03889205e35467cf323080fe77"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/simple-snowy-fix-forge-fabric.pw.toml"
+hash = "a77a5c811e89f70077c8a2fb72f6c77bebe018a3713d90266a4454fac4d1a8c4"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/simple-voice-chat.pw.toml"
+hash = "9e324cddedb5c8a25b577a4fcf23cb27e96ae4cb638b57854fac68dda294c20f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/sinytra-connector.pw.toml"
+hash = "161d6ad57ed27debb9107d48b0a8de76bc60e41e9d41650efe4bfa080d86e2e8"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/skill-tree.pw.toml"
+hash = "2d33b4bc25887634cf00bb67c99b6cfa5f3f6dcc56044af3f606aed7d34bbb46"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/skin-layers-3d.pw.toml"
+hash = "551132dcd7a74c2de47e12e776942fa5b2ce8a14fe7202e4d61152e422e4817a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/sleep-tight.pw.toml"
+hash = "0e6798c1a4c501162f8391fbc50ca3363e597bb1f3aeeb5297ee4d855c7ca809"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "36b8d98dbb476927786adb571d8d9df830d16a624be85e8c7f82eafd16e43ede"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/snow-real-magic.pw.toml"
+hash = "07f41e20f8ebe5d9298dabba264aa1cdf285853a4d1d7c4e6b85f18d7c7e9288"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/sodium.pw.toml"
+hash = "617ec6e9893d59905035a510fe336addd46a97b6fd28fad88b70713ebf8e69e3"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/spark.pw.toml"
+hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/sparkweave.pw.toml"
+hash = "539d9b8eab98c3dd8cabc69e39f1560fc0118887cdce84fbcabd66704a72855a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/spawn-mod.pw.toml"
+hash = "756f090d64feba9ed2ce3df16f87337fa9dc0d6a2cbd933e39bd30a03c600a94"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/spell-engine.pw.toml"
+hash = "617cda2c76ee8f452f6f36d92c5706919320129445cf01d54d61c206978ecb1a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/spell-power.pw.toml"
+hash = "6bed5c00c8365c2170ce3c9fa11116a07af8dfe7cb588e627cbb6e6073d2276b"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/spelunkers-charm-ii.pw.toml"
+hash = "64724b165f10321c0a85bd819ea470b694c651ef477cabefffeb776b42bb5a49"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/spice-of-life-carrot-edition.pw.toml"
+hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/stellarity-lite-3.0.5.8.jar"
+hash = "cc369d6f6bdc003cee464297760ab0de5e1bbd8ff0c98a8fb81c9df0b0ef5791"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/stellarityxyung-1.0.jar"
+hash = "358502bed58421de62e536afeea3365300096f7a98f34542887d3c3883416180"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/stone-zone.pw.toml"
+hash = "c17a98f0d3ce3282be839cd0d8bbdc3936612337cc29eee5eae3e6fc3336ec49"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/stormies-spiders.pw.toml"
+hash = "5809e0a37b84f4cb7214744dae3877fcfbfff396ff2b95d7f134126bcb410b1e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/structure-layout-optimizer.pw.toml"
+hash = "db845eb158247bde04edc727945fbf67c6a46f0cbe4d2a1e9142263c022c73f8"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/structure-pool-api.pw.toml"
+hash = "1973f5f616c0af6a1d82c051d21d59af685de5048964b9dd45c6e52aa6684f05"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/structurify.pw.toml"
+hash = "8f38cebdd00dee667c8db7bfbb1421a2f2eafc7afbac3432383a76fb9d95ce6c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/sulfur-and-nitre.pw.toml"
+hash = "b669704b383e1fa3f5156e8598d03735984a9702ea7961f0b43d1749bf8fbb30"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/supermartijn642s-config-lib.pw.toml"
+hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/teallib.pw.toml"
+hash = "cf405df734343bd1443c78bba8f2982369f77afcc5cb8223158d086c516dc6db"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/the-beyond.pw.toml"
+hash = "ba8a13d420c285de50fcf4c73ed4eebcd1e4225d07a64a95ee23c35aa4f96953"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/this-rocks-forge.pw.toml"
+hash = "00408be9d0435296545e241169ad9af634627e7a6ad7b32b701aa7a1cc9ba78c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/tightfire.pw.toml"
+hash = "dbb5c4f635b016c98933974bb2d1e6882a428362587e0bc1eba0bdee80c1246c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/toast-control.pw.toml"
+hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/too-fast.pw.toml"
+hash = "652bc2a41a85b48d4b4e8103b4be578326b42afad1cdcfb8257a114dd713f1bb"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/toucanlib.pw.toml"
+hash = "7c9bf380fb2831d5f6d57db5e8ffb8e2c3b49304428fcf66d6b8f8cbe97bc6af"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/tree-physics.pw.toml"
+hash = "d5fbd9afe1b4a1f98d34d6128ce81592de09e6c8e0841e2a60e8e6fde87e18c4"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/treephysics-no-shift-mode.pw.toml"
+hash = "4753fdee3564ede63c44856eccba4459c43b74749d0f08178faf883aa6a941b5"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/twemoji.pw.toml"
+hash = "ce706e86490c3c50b0d298f24a0e729166e899d225f0f2eb402fe249bfd42427"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/txnilib.pw.toml"
+hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/uiquest.pw.toml"
+hash = "e3046323d69a015937e694e573513fad7d9edaeb8218ae8e09c6727f4b74d963"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/undead-unleashed.pw.toml"
+hash = "a399f0886884fc13292942d8dbae93cd86a063f1871f462c6d12bb4aee1d4bfa"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/underlay.pw.toml"
+hash = "b56ba69df48be4cc9f807cff7a101ba1b8ae6ab707c39d27d1379ba65cf607ca"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/unearthed-unofficial-port.pw.toml"
+hash = "82f06f2b493648159e255aa3df7f6fb5021b972d63a2380a7c768cad17b9fd57"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/unionlib.pw.toml"
+hash = "9b2c9d9df7f854001468ddd68fcebe7a09ce13a74359436ac45c5aae8daf0fae"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/vanillabackport-x-farmers-delight-compat.pw.toml"
+hash = "b188329b4fcc10a9625f9f443f2f0cbe89eb5b31b2cf7a9ee10c209ee2aa649c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/vanillabackport.pw.toml"
+hash = "2ed8143d74813a492685aa18210835862a6bd70789e6a0301ceb270174b51460"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/vb-compat.pw.toml"
+hash = "3e7ad1dae7d4d2bcadb14e6e01e2aa39e87e284267426f8f57f0b032074770e6"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/villager-retaliation.pw.toml"
+hash = "355883f91fc2015e0a4513617e58ed06a2b036deb886ca8bf198ee0cdf7b2080"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/voicemessages-neoforge-1.0.12-1.21.1.jar"
+hash = "eb1d311b67c3a5a7c56aafd243441a5a8afb9f808f262a070f0447f452c61feb"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/void-fog.pw.toml"
+hash = "7e3205df015b71ed2b963c87cfaf92a7dd4dd92e850d7c868e14f53589e791f5"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/waystones.pw.toml"
+hash = "cfc3d0abc9c387a708d246bef5f90481cd62adee3b6ed7e0932042de2bdbcc3e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/whaleborne.pw.toml"
+hash = "019f6aa0bd001cd1e17b53c556b3e7193459b796d661b90c8ed7181775804131"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/wither-reincarnated.pw.toml"
+hash = "d25cadf1476a83ba4023767777e9abca311350feb0cedfb2f61506caf33075eb"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/wizards.pw.toml"
+hash = "37eaf697e77db2ddac78184ca743a7876e60ea2c11c886baa128e56192dce994"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/woodworks.pw.toml"
+hash = "6d22d63ea807b6661bcc91b92f05d7e793272dd3acb90aeb7473fd6c17a36252"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/xp-tome.pw.toml"
+hash = "9bcbe02b08ed5615447959152d7c2bd21c859a37b7d6dad4605e2e97a64a6321"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/yacl.pw.toml"
+hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/youre-in-grave-danger.pw.toml"
+hash = "6b548f0402651a554b18cb6560bf85744d0827dfd001bb66232904e7962258e1"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/yungs-api-neoforge.pw.toml"
+hash = "a7f7162205a99fed65c2191907c00ee6a5f8a8a87cfd661e8d3829ebe346306f"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/yungs-better-caves.pw.toml"
+hash = "39872d5e20e4d66727d817eb1d472f02ac6414227ca50bbf6b8c20fe4bfdf64b"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/yungs-better-end-island-neoforge.pw.toml"
+hash = "37417dc78726d2d6c01da523ef791c73ce752bb163965270ecec29ee1af54a0d"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/yungs-better-nether-fortresses-neoforge.pw.toml"
+hash = "e467ffe83dd4e8d2d64f41d46067ddf52d0ca6f3271c56e5858829c15def3e3e"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/mods/yungs-better-ocean-monuments-neoforge.pw.toml"
+hash = "499a8fffeca4ff272bfcc0ad266add8fb729a6419fec921d4b8a63f7b9bc2877"
+metafile = true
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/pack.toml"
+hash = "789f357f9dabeb24ec2b4fbd6c6b46d90772eb98eaf0956d8169ca6035a2ad18"
+
+[[files]]
+file = ".kilo/worktrees/blossom-velvet/servers.dat"
+hash = "d55f9e126aa5bd1a99b70d2c5a6d092a55e3c266725e40a8d641706d7ce9f7df"
+
+[[files]]
 file = "config/Underlay/underlay.json"
 hash = "c376c1013b7b2322b7807081b7b2079cf1d1cd4a03b24598d45c55dfc8971f60"
 
@@ -2385,6 +6281,22 @@ file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
+file = "mods/Actual-Fishing-1.21.1-1.1-NeoForge.jar"
+hash = "77779c869de2c63392d3e484eb7388544cd07c242c94051fe499dff914861c4a"
+
+[[files]]
+file = "mods/Delightful-Backport-1.0-1.21.1-neoforge.jar"
+hash = "f4a028c16f4e7e275f1691d6567c772571d68a0d2e7b70d8074cdf5fa822a63a"
+
+[[files]]
+file = "mods/GeophilicBackported-v1.3.3 1.21.1.jar"
+hash = "e6869edf6d91660f45d0eceb3db599161a35dcacadbf550b951d2c783f509631"
+
+[[files]]
+file = "mods/PlayerAnimationLibNeoforge-1.1.6+mc.1.21.1.jar"
+hash = "e41ee06000fc95444a482018ec24b3f1e79eb111ca6b8ca119e61ceabf9136c5"
+
+[[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
@@ -2411,11 +6323,6 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
-metafile = true
-
-[[files]]
-file = "mods/actual-fishing.pw.toml"
-hash = "14b1efaf1bb44f455ad21b9b3ed5f87f60f5f493e630210c3041ea1c05f3b048"
 metafile = true
 
 [[files]]
@@ -2574,14 +6481,13 @@ hash = "f948b2cbe17ba9b70da1c32550e5149f9224d1ce00b10ce86e3d3e61844a459f"
 metafile = true
 
 [[files]]
-file = "mods/better-world-loading-forge.pw.toml"
-hash = "ba6300f8b73556615470c389c84dd3a594ffc9d435ffdbfa4288351f27017139"
-metafile = true
-
-[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "72ca919be55dd04a4d8369ef530427382fe6c4e6df35c4d3d67fbf0ff365622f"
 metafile = true
+
+[[files]]
+file = "mods/betterworldloadingnf21-1.0.jar"
+hash = "1f03ee49b48fbb9c138b0426437040408d26b64bc178c4fbac44dbaf90959bb3"
 
 [[files]]
 file = "mods/biome-spawn-point.pw.toml"
@@ -2869,14 +6775,13 @@ hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
 metafile = true
 
 [[files]]
-file = "mods/emote-tweaks.pw.toml"
-hash = "487c445aa59e7c0e39b6865581365b1887b899a426c149bb45be518d1fc556a5"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft-forge.pw.toml"
 hash = "41da9deeec5e9e6f3369f890a9f459d3dae3edf59c7072cb7c5dd26b953bf7d7"
 metafile = true
+
+[[files]]
+file = "mods/emotetweaks-neoforge-1.0.4.jar"
+hash = "fb2f46d3a01a216d91d950f49a63128cd61d9c80799f16d8ef32349b86a9a452"
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
@@ -2899,9 +6804,8 @@ hash = "20de659318ff023d1d7c99d360eb8e33a6053c3564d1c702ddaa7fcfc63e693e"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b3cd138187e5fdcf1c7c9df852ce4a91e29898a22b8d9d78caca7a100fcea12d"
-metafile = true
+file = "mods/entityculling-neoforge-1.11.2-mc1.21.1.jar"
+hash = "3983b981da4a0583c7e58184a8631a23e56cc3b81f4cb53491ca600382879b82"
 
 [[files]]
 file = "mods/epic-structures-dungeons.pw.toml"
@@ -2999,9 +6903,8 @@ hash = "988c6c0843f579257b6e8f730c04912ea5b1d0d47826b10adbf9fb0ac4287287"
 metafile = true
 
 [[files]]
-file = "mods/flint-required.pw.toml"
-hash = "a4a8d2e9b2d750fd7188d24ec98a70c272f6ddf0f891fa615d38a5d5fc85a60e"
-metafile = true
+file = "mods/flintrequired-1.5.2.jar"
+hash = "46af42885acdc03d2b1ab54b82c67177030d95b5a76448d4aaac9f976892bd96"
 
 [[files]]
 file = "mods/forcemaster-rpg-class.pw.toml"
@@ -3044,11 +6947,6 @@ hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
 metafile = true
 
 [[files]]
-file = "mods/geophilic-backport-vanilla-backport-compact.pw.toml"
-hash = "3e6a078509687ba092ff7d2bf64551b3c3bb160fa76dd3d31e628a8cdc7ecd46"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "9f978fc40af94a2712a860cccd6cb44513992a1b03ce318b25dcb2de716669ce"
 metafile = true
@@ -3064,9 +6962,8 @@ hash = "d7deb45c4182e0eec3fe7339eb97a897bc5e0b58aa5e11557073c59a8e366404"
 metafile = true
 
 [[files]]
-file = "mods/hackers-n-slashers.pw.toml"
-hash = "f9c3b4eb9289f659c36bf4730c8fc49123386d708605e088a80284a742e765a1"
-metafile = true
+file = "mods/hackersandslashers-2.0-beta2.5.jar"
+hash = "f759036b3fd8e4572789d4b93911d9bfd58bf797d70e61a228b81a153a1f5aba"
 
 [[files]]
 file = "mods/helpfulcampfires.pw.toml"
@@ -3203,14 +7100,13 @@ hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
 metafile = true
 
 [[files]]
-file = "mods/lootr-liason.pw.toml"
-hash = "ae798cbfb95c4053a21c5c342dd79e0af0528f4d4e4937c65c429b056fa5e5a7"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "ff152357ebb175e8e8c58ecda4f9814d398c5668f3311b0ad6a4afcb1dc26d13"
 metafile = true
+
+[[files]]
+file = "mods/lootr_liason-1.2.2+1.21.1-neoforge.jar"
+hash = "c37e0a477c89e490ab542534e804faad8be816c2b731a1a160597575c0823ed6"
 
 [[files]]
 file = "mods/lukis-ancient-cities.pw.toml"
@@ -3233,9 +7129,8 @@ hash = "30195663aa46907f6f3254fdd7db1ab5359e39d608abd61343902462c4ad819f"
 metafile = true
 
 [[files]]
-file = "mods/map-3d-usseewa.pw.toml"
-hash = "79b4307f906a937da764adecd67156eac85f1eccd94e48dbb7fdeb3816fd47c0"
-metafile = true
+file = "mods/map-3d-usseewa-neoforge-1.21.1-1.0.0.jar"
+hash = "30fa493f8e1b6c0d2ec245f13d37b5d2bc8a2a952bd427865c9a3d1e3f814cc3"
 
 [[files]]
 file = "mods/map-distance-fix.pw.toml"
@@ -3348,9 +7243,8 @@ hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "78a453bc5b750d057212b0762e93ae82ea2f360b6dccfe6b53c52d5b6849c80b"
-metafile = true
+file = "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
+hash = "e70609c5638d9f02edfb2c8ec448a7d567345323d7386937c174526aac56cb8f"
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
@@ -3423,11 +7317,6 @@ hash = "cf4f9fdb9d7cf582d1068fae6ca9bf7fe6d3f0f1dbb031627f339f73477d325c"
 metafile = true
 
 [[files]]
-file = "mods/player-animation-library.pw.toml"
-hash = "a4a670f4b467518d39b9d1bc340d4c0592d1319f43adb821c0ebe96bd5f1ade7"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
@@ -3435,11 +7324,6 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "864bc2442c2c2a6561abf6db9e527a57a8fac3144c770d4e2a931fcbab97db60"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps-neoforge.pw.toml"
-hash = "8eed7b899ed784a5d5ed2c4ed4ff1f10a2b650f106f39b3340e2bd6a2a217561"
 metafile = true
 
 [[files]]
@@ -3613,9 +7497,8 @@ hash = "2d33b4bc25887634cf00bb67c99b6cfa5f3f6dcc56044af3f606aed7d34bbb46"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "551132dcd7a74c2de47e12e776942fa5b2ce8a14fe7202e4d61152e422e4817a"
-metafile = true
+file = "mods/skinlayers3d-neoforge-1.11.3-mc1.21.1.jar"
+hash = "af7dcd6c6a40793adc0f7e57dd8fcc04c9e9bdf9c8ffa4efeb36e22d8b1f79db"
 
 [[files]]
 file = "mods/sleep-tight.pw.toml"
@@ -3706,9 +7589,8 @@ hash = "8f38cebdd00dee667c8db7bfbb1421a2f2eafc7afbac3432383a76fb9d95ce6c"
 metafile = true
 
 [[files]]
-file = "mods/sulfur-and-nitre.pw.toml"
-hash = "b669704b383e1fa3f5156e8598d03735984a9702ea7961f0b43d1749bf8fbb30"
-metafile = true
+file = "mods/sulfurnitre-1.1.0.jar"
+hash = "346b7047c7bfe09480b62b1a08c7e2b98818cba735a99ee66f7e4fde94694e23"
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
@@ -3796,19 +7678,13 @@ hash = "9b2c9d9df7f854001468ddd68fcebe7a09ce13a74359436ac45c5aae8daf0fae"
 metafile = true
 
 [[files]]
-file = "mods/vanillabackport-x-farmers-delight-compat.pw.toml"
-hash = "b188329b4fcc10a9625f9f443f2f0cbe89eb5b31b2cf7a9ee10c209ee2aa649c"
-metafile = true
-
-[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "2ed8143d74813a492685aa18210835862a6bd70789e6a0301ceb270174b51460"
 metafile = true
 
 [[files]]
-file = "mods/vb-compat.pw.toml"
-hash = "3e7ad1dae7d4d2bcadb14e6e01e2aa39e87e284267426f8f57f0b032074770e6"
-metafile = true
+file = "mods/vb-compat-2.2-1.21.1.jar"
+hash = "a46aa2610a75ff50490daaf8d168d252682e23fe835f283ad5e32ffde42fd222"
 
 [[files]]
 file = "mods/villager-retaliation.pw.toml"
