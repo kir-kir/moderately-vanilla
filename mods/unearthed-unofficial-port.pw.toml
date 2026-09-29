@@ -1,0 +1,13 @@
+name = "Unearthed (Unofficial Port)"
+filename = "unearthed-3.1.1-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de985340ad9b056aff20c80aea2b51ece48cc1e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8920266
+project-id = 1610579

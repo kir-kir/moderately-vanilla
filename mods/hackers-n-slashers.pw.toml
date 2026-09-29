@@ -1,0 +1,13 @@
+name = "Hackers 'n Slashers"
+filename = "hackersandslashers-2.0-beta2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7864ce079c4f74b226d56d520d3639ca98d5394"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8838801
+project-id = 1176763

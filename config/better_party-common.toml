@@ -1,0 +1,63 @@
+#General server behavior.
+[general]
+	#Keeps parties, members, roles and party settings across disconnects and server restarts.
+	#Completely offline parties remain stored and members rejoin them automatically on login.
+	#When disabled, Better Party retains its original session-only behavior.
+	#Changing this option requires a server restart.
+	#Default: true
+	persistentParties = true
+	#Hard maximum number of players in a party, including its leader.
+	#Party leaders cannot select a larger limit and no join path can exceed it.
+	#Existing oversized parties keep their members, but cannot add anyone
+	#until their size is below this limit.
+	#Default: 10
+	# Default: 10
+	# Range: 2 ~ 10
+	maximumPartySize = 10
+
+#Host-controlled experience sharing rules for dedicated, singleplayer and LAN servers.
+[experienceSharing]
+	#Allows party leaders to enable shared experience for their party.
+	#When disabled, XP sharing is blocked server-side and its menu control is disabled.
+	#Default: true
+	allowed = true
+	#Maximum XP sharing distance party leaders may select in their party menu.
+	#For example, a value of 6 lets party leaders choose from 1 through 6 chunks.
+	#One chunk equals 16 blocks.
+	#Default: 2
+	# Default: 2
+	# Range: 1 ~ 32
+	maxRadiusChunks = 2
+
+#Host-controlled friendly-fire rules for dedicated, singleplayer and LAN servers.
+[friendlyFireProtection]
+	#Allows party leaders to protect their party from friendly fire.
+	#When disabled, party members can always damage one another and
+	#leaders cannot enable friendly-fire protection.
+	#Default: true
+	allowed = true
+
+#Host-controlled member-locator rules for dedicated, singleplayer and LAN servers.
+[memberLocator]
+	#Allows party leaders to enable the member locator.
+	#When disabled, the locator is turned off for every party,
+	#leaders cannot enable it and exact member positions are not sent to clients.
+	#Default: true
+	allowed = true
+
+#Optional diagnostics. Keep these disabled on production servers.
+[diagnostics]
+	#Logs every successful shared XP-orb pickup to the server log.
+	#The entry contains the party, collector, original orb value,
+	#recipient shares and each recipient's distance from the collector.
+	#Default: false
+	logXpSharing = false
+
+#Compatibility with vanilla teams and mods that use them.
+[integration]
+	#Synchronizes each Better Party with a real vanilla scoreboard team.
+	#Leaving or changing that team also ends the party membership.
+	#Players already assigned to a foreign team are never moved automatically.
+	#Disable this only when another mod must have exclusive ownership of teams.
+	#Default: true
+	vanillaTeamBridge = true

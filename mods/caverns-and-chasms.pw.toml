@@ -1,0 +1,13 @@
+name = "Caverns & Chasms"
+filename = "caverns_and_chasms-1.21.1-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea5d7d0c30d321a62c48669202e0e09a94c8c48e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8891838
+project-id = 438005

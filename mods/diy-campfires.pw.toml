@@ -1,0 +1,13 @@
+name = "DIY Campfires"
+filename = "diy_campfires-1.21.1neo-1.3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a648ad831888d526eafae2bb611ad732156ae61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8610229
+project-id = 1510572

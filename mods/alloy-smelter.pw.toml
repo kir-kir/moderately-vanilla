@@ -1,0 +1,13 @@
+name = "Alloy Smelter"
+filename = "alloy_smelter-neoforge-1.21.1-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67466c13f854ade7502ccdb15d52fc9c673b443a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8979427
+project-id = 1313083

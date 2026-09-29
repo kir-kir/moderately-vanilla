@@ -1,0 +1,13 @@
+name = "ChatImage"
+filename = "ChatImage-1.4.7+1.21.0+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5050acc4d27e8118eede0c67c3c0a86e41f3ec1a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6397934
+project-id = 818089

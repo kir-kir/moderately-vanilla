@@ -1,0 +1,13 @@
+name = "AAA Particles"
+filename = "aaa_particles-neoforge-1.21.1-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0aa7408d56cdab3a083df4e907ca4bf8e2981be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8983699
+project-id = 979809

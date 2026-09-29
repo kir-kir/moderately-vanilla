@@ -1,0 +1,13 @@
+name = "ModeratelyVanilla"
+author = "TheTheoros"
+version = "0.0.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6648d2d2e77ae8e3c8438866b2a0a5152103c2b237c5d89904e7e68618013e81"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.252"

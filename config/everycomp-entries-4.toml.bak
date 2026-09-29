@@ -1,0 +1,62 @@
+		[types.stone_type.burnt]
+			sooty_stone = true
+
+		[types.stone_type.unearthed]
+			phyllite = true
+			slate = true
+			gabbro = true
+			granodiorite = true
+			rhyolite = true
+			limestone = true
+			conglomerate = true
+			dacite = true
+			dolomite = true
+
+		[types.stone_type.caverns_and_chasms]
+			sugilite = true
+			cylindrite = true
+			cassiterite = true
+			rhyolite = true
+
+		[types.stone_type.incision]
+			clottage = true
+			weatherrack = true
+			goreshed = true
+
+		[types.stone_type.netherman]
+			samsonit = true
+
+		[types.wood_type.burnt]
+			smoldering_bamboo = true
+
+		[types.wood_type.burnt_additions]
+			smoldering_soul = true
+			soul_tempered = true
+
+		[types.wood_type.minecraft]
+			pale_oak = true
+
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
+		[types.wood_type.spawn]
+			rotten = true
+			date = true
+
+		[types.wood_type.mynethersdelight]
+			powdery = true
+
+		[types.wood_type.netherexp]
+			claret = true
+
+		[types.leaves_type.minecraft]
+			pale_oak = true
+
+		[types.leaves_type.spawn]
+			date = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.stone_type.waystones]
+			waystone = true

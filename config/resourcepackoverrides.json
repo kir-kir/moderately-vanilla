@@ -1,0 +1,34 @@
+{
+  "schema_version": "2",
+  "pack_overrides": {
+    "1": [
+      "fabric",
+      "mod_resources",
+      "programmer_art",
+      "high_contrast",
+      "true-ending-dragon-music-v1.zip",
+      "vanillabackport:freshly_animated_legacy",
+      "vanillabackport:freshly_animated",
+      "VanillaTweaks_r727967_MC1.21.x.zip",
+      "moonlight:merged_pack"
+    ],
+    "$$1": {
+      "hidden": true
+    },
+    "2": [
+      "HumanEraVillagersIllagers[3.91.6].zip",
+      "VillagerRetaliationXHumanEraVillagers_v1.1.0.zip"
+    ],
+    "$$2": {
+      "fixed_position": true,
+      "hidden": true
+    },
+    "3": [
+      "hns_mace"
+    ],
+    "$$3": {
+      "required": true,
+      "hidden": true
+    }
+  }
+}

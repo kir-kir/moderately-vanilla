@@ -1,0 +1,9 @@
+{
+  "levels": {
+    "1": [{"item_cost": {"item": "minecraft:sugar", "count": 4}}],
+    "2": [{"item_cost": {"item": "minecraft:redstone", "count": 4}}],
+    "3": [{"item_cost": {"item": "minecraft:phantom_membrane", "count": 1}}],
+    "4": [{"item_cost": {"item": "minecraft:echo_shard", "count": 1}}],
+    "5": [{"item_cost": {"item": "minecraft:dragon_breath", "count": 1}}]
+  }
+}

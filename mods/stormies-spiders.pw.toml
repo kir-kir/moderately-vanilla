@@ -1,0 +1,13 @@
+name = "Stormie's Spiders"
+filename = "stormiespiders-neoforge-1.21.1-3.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "caa4f6c7b6f3da6bca54f189d7dd25b1149660f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8916941
+project-id = 1395945

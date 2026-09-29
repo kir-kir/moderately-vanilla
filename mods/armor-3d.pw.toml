@@ -1,0 +1,13 @@
+name = "Armor 3D"
+filename = "3d-armor-0.9.4.2-mod.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8253b99b9d44c6935a273d5bc1f7f282e8a9cad1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8422713
+project-id = 1106286

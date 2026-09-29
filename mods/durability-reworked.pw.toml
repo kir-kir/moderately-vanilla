@@ -1,0 +1,13 @@
+name = "Durability Reworked"
+filename = "durabilityreworked-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5872be8a3c1a5867538e38ee8326f947358ae751"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8743815
+project-id = 1569901

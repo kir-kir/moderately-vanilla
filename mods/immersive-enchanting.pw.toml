@@ -1,0 +1,13 @@
+name = "Immersive Enchanting"
+filename = "beta-immersiveenchanting-6.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d76ee256cb5d559446d78ded1692def6ae569ae1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8598337
+project-id = 1354719

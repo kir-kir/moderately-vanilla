@@ -1,0 +1,13 @@
+name = "Boids"
+filename = "boids-1.21.1-NeoForge-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "207067b06c0597a048764bbf3285c0e768133ce2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8495512
+project-id = 1515836

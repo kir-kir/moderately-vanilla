@@ -1,0 +1,13 @@
+name = "UIQuest"
+filename = "UIQuest-neoforge-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24f4693eb78d075aeb3fc9f214f14f4289f64849"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8066269
+project-id = 1521538

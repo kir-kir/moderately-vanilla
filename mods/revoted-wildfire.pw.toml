@@ -1,0 +1,13 @@
+name = "Revoted: Wildfire"
+filename = "revotedwildfire-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a326e8625eb9d331b2d3cfb06019ecd35e36a92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6968565
+project-id = 1339181

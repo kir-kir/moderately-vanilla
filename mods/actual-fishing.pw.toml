@@ -1,0 +1,13 @@
+name = "Actual Fishing"
+filename = "Actual-Fishing-1.21.1-1.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38e091c6033b1c0eeb45dd26088179cc10831d4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7466477
+project-id = 1062668

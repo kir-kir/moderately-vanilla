@@ -1,0 +1,13 @@
+name = "AlfinoLib"
+filename = "alfinolib-1.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "534ec2d4319f7aed36809e60430b501f7451ac39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8596074
+project-id = 1554698

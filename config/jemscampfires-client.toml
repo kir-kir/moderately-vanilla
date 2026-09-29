@@ -1,0 +1,9 @@
+["Debug/Dev Options"]
+	#Debug/Dev: Campfire info messages also show the time remaining in ticks - Default false
+	debugTicksRemaining = false
+
+["Client Options"]
+	#Render additional bonfire embers and smoke - Default true
+	showBonfireParticles = true
+	#Campfire info messages are logged in the chat window instead of the action-bar - Default false
+	debugInfoInChat = false

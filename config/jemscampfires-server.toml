@@ -1,0 +1,143 @@
+["Misc Options"]
+	#Is a fire poker needed for checking campfire info? Sneak + right-click with an empty hand if 'false' - Default: true
+	needFirePoker = true
+	#Will campfires drop items when extinguished (restores pre-1.17 behavior) - Default: false 
+	dropItemsWhenExtinguish = false
+	#Enable compatibility fix for mods that let you build a campfire in-world, may rarely cause an issue with world-genned campfires - Default: false
+	enableCampfireBuildCompatibilityFix = false
+	#Enable campfire dimming when low on fuel. Changes require world-restart.
+	#WARNING: Potentially buggy - Default: false
+	enableFuelBasedLighting = false
+	#Enable campfire fuel dimming for eternal campfires. Requires 'enableFuelBasedLighting' to be true. Changes require world restart.
+	#WARNING: Potentially buggy, manually updating eternal campfires is inherently tricky - Default: false
+	enableEternalFuelBasedLighting = false
+	#Enable compatibility changes for the Farmer's Delight stove block - Default true
+	enableFarmersDelightStoveCompat = true
+
+	["General Options"."Regular Campfires"]
+		#Are regular campfires placed by players initially lit - Default: false
+		placedCampfiresAreLit = false
+		#Maximum regular campfire fuel in ticks - Default 12000 ticks (10 minutes; 20 ticks/second)
+		# Default: 12000
+		# Range: 100 ~ 1000000000
+		campfireMaxFuelTicks = 12000
+		#Initial regular campfire fuel in ticks (can't be more than the configured max) - Default 200 ticks (10 seconds)
+		# Default: 200
+		# Range: 0 ~ 1000000000
+		campfireInitialFuelTicks = 200
+		#Multiplies the burn time of fuel added to regular campfires - Default 1.0
+		# Default: 1.0
+		# Range: 0.01 ~ 25.0
+		campfireBurnTimeMultiplier = 1.0
+		#Will lit regular campfires consume (destroy) dropped fuel items even when fully fueled - Default: true
+		campfiresBurnItemsWhenFull = true
+		#Will regular campfires break when they run out of fuel - Default false
+		breakCampfiresWhenOut = false
+		#Will regular campfires spread fire to adjacent flammable blocks - Default false
+		campfiresSpreadFire = false
+		#Regular campfire fuel lost per tick from rain (-1 for instant burnout without loss, 0 to disable) - Default 200 ticks
+		# Default: 10
+		# Range: -1 ~ 2000000000
+		campfireRainFuelLoss = 10
+		#Switch regular campfire filtered-fuels tag to a whitelist (blacklist by default) - Default false
+		campfireUseWhitelist = false
+
+	["General Options"."Soul Campfires"]
+		#Are soul campfires placed by players initially lit - Default: false
+		placedSoulCampfiresAreLit = false
+		#Maximum soul campfire fuel in ticks - Default 12000 ticks (10 minutes; 20 ticks/second)
+		# Default: 12000
+		# Range: 100 ~ 1000000000
+		soulCampfireMaxFuelTicks = 12000
+		#Initial soul campfire fuel in ticks (can't be more than the configured max) - Default 200 ticks (10 seconds)
+		# Default: 200
+		# Range: 0 ~ 1000000000
+		soulCampfireInitialFuelTicks = 200
+		#Multiplies the burn time of fuel added to soul campfires - Default 1.0
+		# Default: 1.0
+		# Range: 0.01 ~ 25.0
+		soulCampfireBurnTimeMultiplier = 1.0
+		#Will lit soul campfires consume (destroy) dropped fuel items even when fully fueled - Default: true
+		soulCampfiresBurnItemsWhenFull = true
+		#Will soul campfires break when they run out of fuel - Default false
+		breakSoulCampfiresWhenOut = false
+		#Will soul campfires spread fire to adjacent flammable blocks - Default false
+		soulCampfiresSpreadFire = false
+		#Soul campfire fuel lost per tick from rain (-1 for instant burnout without loss, 0 to disable) - Default 200 ticks
+		# Default: 5
+		# Range: -1 ~ 2000000000
+		soulCampfireRainFuelLoss = 5
+		#Switch soul campfire filtered-fuels tag to a whitelist (blacklist by default) - Default false
+		soulCampfireUseWhitelist = false
+
+	["Decorative Options"."Regular Campfires"]
+		#Regular campfires placed by players don't burn fuel (eternal) - Default: true
+		placedCampfiresAreEternal = false
+		#Regular campfires spawned in structures don't burn fuel (eternal) - Default: true
+		spawnedCampfiresAreEternal = true
+		#Allow items (defined by a tag) to make regular campfires burn without using fuel - Default true
+		allowEternalCampfireItems = true
+		#Remove eternal status if a regular campfire cooks (prevents abuse of natural-spawned eternal campfires) - Default true
+		removeEternalCampfireIfCook = true
+		#Will regular campfires lose eternal status if extinguished or put out - Default true
+		removeEternalCampfireIfOut = true
+		#Will rain affect eternal regular campfires (lose fuel or get put-out) - Default false
+		doesRainAffectEternalCampfire = false
+		#Can eternal regular campfires do bonfire behavior - Default false
+		eternalCampfireBonfire = false
+
+	["Decorative Options"."Soul Campfires"]
+		#Soul campfires placed by players don't burn fuel (eternal) - Default: true
+		placedSoulCampfiresAreEternal = false
+		#Soul campfires spawned in structures don't burn fuel (eternal) - Default: true
+		spawnedSoulCampfiresAreEternal = true
+		#Allow items (defined by a tag) to make soul campfires burn without using fuel - Default true
+		allowEternalSoulCampfireItems = true
+		#Remove eternal status if a soul campfire cooks (prevents abuse of natural-spawned eternal campfires) - Default true
+		removeEternalSoulCampfireIfCook = true
+		#Will soul campfires lose eternal status if extinguished or put out - Default true
+		removeEternalSoulCampfireIfOut = true
+		#Will rain affect eternal soul campfires (lose fuel or get put-out) - Default false
+		doesRainAffectEternalSoulCampfire = false
+		#Can eternal soul campfires do bonfire behavior - Default false
+		canEternalSoulCampfireBonfire = false
+
+	["Bonfire Mode Options"."Regular Campfires"]
+		#Will regular campfires become a bonfire if over-fueled - Default false
+		enableRegularBonfire = false
+		#Regular bonfire fuel capacity, this gets added onto the normal max fuel - Default 1200 ticks (1 minute)
+		# Default: 1200
+		# Range: 100 ~ 1000000000
+		regularBonfireFuel = 1200
+		#Will regular bonfires lose their extra bonfire fuel when extinguished (returns to a normal fire) - Default true
+		regularBonfireLoseFuelWhenPutOut = true
+		#Regular bonfire fuel use multiplier - Default 2
+		# Default: 2
+		# Range: 1 ~ 10
+		regularBonfireFuelUseMultiplier = 2
+		#Regular bonfire cooking speed multiplier - Default 2
+		# Default: 2
+		# Range: 1 ~ 10
+		regularBonfireCookSpeedMultiplier = 2
+		#Will regular bonfires spread fire (up to 2 blocks away) - Default true
+		regularBonfireFirespread = true
+
+	["Bonfire Mode Options"."Soul Campfires"]
+		#Will soul campfires become a bonfire if over-fueled - Default false
+		enableSoulBonfire = false
+		#Soul bonfire fuel capacity, this gets added onto the normal max fuel - Default 1200 ticks (1 minute)
+		# Default: 1200
+		# Range: 100 ~ 1000000000
+		soulBonfireFuel = 1200
+		#Will soul bonfires lose their extra bonfire fuel when extinguished (returns to a regular fire) - Default true
+		soulBonfireLoseFuelWhenPutOut = true
+		#Soul bonfire fuel use multiplier - Default 2
+		# Default: 2
+		# Range: 1 ~ 10
+		soulBonfireFuelUseMultiplier = 2
+		#Soul bonfire cooking speed multiplier - Default 2
+		# Default: 2
+		# Range: 1 ~ 10
+		soulBonfireCookSpeedMultiplier = 2
+		#Will soul bonfires spread fire (up to 2 blocks away) - Default true
+		soulBonfireFirespread = true

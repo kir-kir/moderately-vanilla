@@ -1,0 +1,13 @@
+name = "Anvil Repairing"
+filename = "anvilrepairing-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e0da6eec032434b7ae7eb1e2066756ae9a69fd0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5953516
+project-id = 889205

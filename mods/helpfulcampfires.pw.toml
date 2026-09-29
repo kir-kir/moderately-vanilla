@@ -1,0 +1,13 @@
+name = "Helpful Campfires"
+filename = "helpfulcampfires-neoforge-1.21.1-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "05b319ce342d8e011b85da47eda6a3f72804d1a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7142677
+project-id = 1370287

@@ -1,0 +1,69 @@
+[mechanics]
+	#Turn on only if you know what are you doing.
+	disable-knapping = false
+	#If true, players are heavily penalized or prevented from breaking specific blocks without the correct flint tools.
+	enableStrictMining = true
+	#The chance (0.0 to 1.0) of successfully extracting a flint shard when right-clicking stone with flint.
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	flintKnappingSuccessChance = 0.15
+	#If true, knapping successfully turns Stone to Cobblestone, and Cobblestone to Gravel.
+	enableBlockDegradation = true
+	#The time in ticks (20 ticks = 1 second) required to successfully brush gravel.
+	# Default: 100
+	# Range: 20 ~ 1200
+	crudeBrushTicks = 100
+	#The chance (0.0 to 1.0) to actually uncover flint when you finish brushing gravel. (1.0 = 100%)
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	brushFlintChance = 1.0
+
+[combat]
+	#If true, the Crude Bow can shoot any arrow. If false, it strictly requires Flint Arrows.
+	shootAllArrows = false
+	#The inaccuracy of the Crude Bow. Vanilla bow is 1.0. Higher numbers mean wilder shots.
+	# Default: 4.0
+	# Range: 1.0 ~ 20.0
+	crudeBowInaccuracy = 4.0
+	#Maximum durability of the Crude Bow.
+	# Default: 64
+	# Range: 1 ~ 1000
+	crudeBowDurability = 64
+	#The chance (0.0 to 1.0) that a Flint Arrow shatters upon hitting a block.
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	flintArrowBreakChance = 0.5
+	#Base damage of the Flint Arrow.
+	# Default: 1.5
+	# Range: 0.1 ~ 10.0
+	flintArrowDamage = 1.5
+
+[tools]
+	#Maximum durability for the Crude Brush
+	# Default: 16
+	# Range: 1 ~ 2048
+	crudeBrushDurability = 16
+	#Maximum durability for the Flint Axe.
+	# Default: 32
+	# Range: 1 ~ 2048
+	flintAxeDurability = 32
+	#Maximum durability for the Flint Pickaxe.
+	# Default: 64
+	# Range: 1 ~ 2048
+	flintPickaxeDurability = 64
+	#Maximum durability for the Flint Shovel.
+	# Default: 32
+	# Range: 1 ~ 2048
+	flintShovelDurability = 32
+	#Maximum durability for the Flint Hoe.
+	# Default: 24
+	# Range: 1 ~ 2048
+	flintHoeDurability = 24
+	#Maximum durability for the Flint Knife.
+	# Default: 12
+	# Range: 1 ~ 2048
+	flintKnifeDurability = 12
+	#Mining speed multiplier for Flint tools.
+	# Default: 4.0
+	# Range: 0.1 ~ 20.0
+	flintToolSpeed = 4.0

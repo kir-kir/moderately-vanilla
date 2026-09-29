@@ -1,0 +1,8 @@
+#Global durability settings
+[durability]
+	#Multiplier applied to every item's max durability.
+	#1.0 = vanilla (default), 2.0 = double durability, 0.5 = half durability.
+	#Must be greater than 0.
+	# Default: 1.0
+	# Range: 0.01 ~ 1000.0
+	globalDurabilityMultiplier = 8.0

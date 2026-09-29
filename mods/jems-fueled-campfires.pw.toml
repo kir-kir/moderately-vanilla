@@ -1,0 +1,13 @@
+name = "Jem's Fueled Campfires"
+filename = "jemscampfires-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec5af33842e61493b72fb3c24da775649cccbbeb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8960301
+project-id = 1096002

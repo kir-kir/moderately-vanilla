@@ -1,0 +1,13 @@
+name = "Artifacts' Delight"
+filename = "artifactdelight-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2c2dd92fe2567857a6787a0f9e0c9dd831a3507"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8304973
+project-id = 1440506

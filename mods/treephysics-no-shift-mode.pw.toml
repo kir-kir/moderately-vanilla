@@ -1,0 +1,13 @@
+name = "TreePhysics - No Shift Mode"
+filename = "treephysicsnoshiftmode-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "161d0444cdf7200d1f5d2dce5ea9423973775dd0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8906152
+project-id = 1700176

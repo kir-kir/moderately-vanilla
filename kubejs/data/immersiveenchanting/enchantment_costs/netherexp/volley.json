@@ -1,0 +1,8 @@
+{
+  "levels": {
+    "1": [{"item_cost": {"item": "minecraft:arrow", "count": 8}}],
+    "2": [{"item_cost": {"item": "minecraft:spectral_arrow", "count": 4}}],
+    "3": [{"item_cost": {"item": "minecraft:tipped_arrow", "count": 8, "components": {"minecraft:potion_contents": {"potion": "minecraft:harming"}}}}],
+    "4": [{"item_cost": {"item": "minecraft:end_crystal", "count": 1}}]
+  }
+}

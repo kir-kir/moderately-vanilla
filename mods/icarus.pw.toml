@@ -1,0 +1,13 @@
+name = "Icarus"
+filename = "Icarus-NeoForge-4.7.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73a3c88e303644ee50edf64971bb86aec1b96353"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8617814
+project-id = 428151

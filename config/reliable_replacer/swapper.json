@@ -1,0 +1,18 @@
+{
+  "swapper": {
+    "examplemod:input_block": "examplemod:output_block",
+    "minecraft:sulfur": "burnt_additions:sulphur_ore",
+    "rocks:rock": "rocks:gravel_rock",
+    "rocks:granite_rock": "rocks:gravel_rock",
+    "rocks:andesite_rock": "rocks:gravel_rock",
+    "rocks:diorite_rock": "rocks:gravel_rock",
+    "rocks:sand_rock": "minecraft:air",
+    "rocks:red_sand_rock": "minecraft:air",
+    "rocks:end_stone_rock": "minecraft:air",
+    "rocks:netherrack_rock": "minecraft:air",
+    "rocks:pinecone": "minecraft:air",
+    "rocks:geyser": "minecraft:air",
+    "rocks:nether_geyser": "minecraft:air",
+    "rocks:soul_soil_rock": "minecraft:air"
+  }
+}

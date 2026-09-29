@@ -1,0 +1,13 @@
+name = "Undead Unleashed - Continued"
+filename = "undead_unleashed-2.0.6-hotfix-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bc796a3e63fe07a7a7a9de254db0595561cebc0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8965790
+project-id = 817279

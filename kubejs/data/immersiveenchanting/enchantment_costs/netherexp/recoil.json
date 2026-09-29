@@ -1,0 +1,7 @@
+{
+  "levels": {
+    "1": [{"item_cost": {"item": "minecraft:gunpowder", "count": 2}}],
+    "2": [{"item_cost": {"item": "minecraft:fire_charge", "count": 1}}],
+    "3": [{"item_cost": {"item": "minecraft:tnt", "count": 1}}]
+  }
+}

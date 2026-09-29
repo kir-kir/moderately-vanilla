@@ -1,0 +1,13 @@
+name = "Charms"
+filename = "charms-neoforge-1.21.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "716446399fb56f7854e20dce40a0044606ea45db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7399146
+project-id = 420955

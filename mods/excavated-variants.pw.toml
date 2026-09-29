@@ -1,0 +1,13 @@
+name = "Excavated Variants"
+filename = "excavatedvariants-4.3.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca8f84c616949f31d055a557339b4a2d2cec0da9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5625108
+project-id = 577411

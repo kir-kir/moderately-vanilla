@@ -1,0 +1,13 @@
+name = "Map 3d usseewa"
+filename = "map-3d-usseewa-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24c0d2c473d42be7900712ff64a06d11a72d1d5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8799030
+project-id = 1662584

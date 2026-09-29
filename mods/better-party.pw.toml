@@ -1,0 +1,13 @@
+name = "Better Party"
+filename = "better-party-neoforge-1.21.1-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b5fcfcf971704730718d3f382d31735e75ad37c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8894948
+project-id = 1610184

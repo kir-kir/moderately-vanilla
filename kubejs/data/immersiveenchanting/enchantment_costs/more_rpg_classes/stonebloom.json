@@ -1,0 +1,9 @@
+{
+  "levels": {
+    "1": [{"item_cost": {"item": "minecraft:dirt", "count": 16}}],
+    "2": [{"item_cost": {"item": "minecraft:moss_block", "count": 1}}],
+    "3": [{"item_cost": {"item": "minecraft:flowering_azalea", "count": 1}}],
+    "4": [{"item_cost": {"item": "minecraft:spore_blossom", "count": 1}}],
+    "5": [{"item_cost": {"item": "minecraft:echo_shard", "count": 1}}]
+  }
+}

@@ -1,0 +1,13 @@
+name = "Firestarters"
+filename = "firestarters-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed992cc188daced0e448f08b53047707a8c2634a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7826963
+project-id = 1497521

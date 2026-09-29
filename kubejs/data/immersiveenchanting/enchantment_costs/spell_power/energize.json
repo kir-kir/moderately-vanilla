@@ -1,0 +1,9 @@
+{
+  "levels": {
+    "1": [{"item_cost": {"item": "minecraft:redstone", "count": 4}}],
+    "2": [{"item_cost": {"item": "minecraft:glowstone_dust", "count": 4}}],
+    "3": [{"item_cost": {"item": "minecraft:blaze_powder", "count": 2}}],
+    "4": [{"item_cost": {"item": "minecraft:blaze_rod", "count": 1}}],
+    "5": [{"item_cost": {"item": "minecraft:dragon_breath", "count": 1}}]
+  }
+}
