@@ -3403,6 +3403,11 @@ hash = "ca02c6fc19776518d07d2bbda9867b2d9a8a1bd54fd8d417c132243bf6734c6e"
 metafile = true
 
 [[files]]
+file = "mods/pf-neoforge.pw.toml"
+hash = "1ef7ce6d5fe6e584914680f5463508996f0dd1c2bdbc051b8b3b050c85e134ff"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "985e76bc7102ebb55572abd9dd5a2e69ca0ea967cb8abcfa159ff2fdecb0d8e0"
 metafile = true
@@ -3644,7 +3649,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-mod.pw.toml"
-hash = "756f090d64feba9ed2ce3df16f87337fa9dc0d6a2cbd933e39bd30a03c600a94"
+hash = "51421cfbef7ed7f78ffb7925cfd3e713a8beb8bbd174975b9b745c1e0cc083b2"
 metafile = true
 
 [[files]]
@@ -3712,7 +3717,7 @@ metafile = true
 
 [[files]]
 file = "mods/teallib.pw.toml"
-hash = "cf405df734343bd1443c78bba8f2982369f77afcc5cb8223158d086c516dc6db"
+hash = "99f89e803723e4684bff03fe6bf7c1dae431e198ed50ef06f624d0d6397568ab"
 metafile = true
 
 [[files]]

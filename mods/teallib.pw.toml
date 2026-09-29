@@ -3,11 +3,11 @@ filename = "teallib-1.3.teal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b186cdfd311158858429e494ecd11e2157274eff"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rLJ1qF79/versions/lZTBRemW/teallib-1.3.teal.jar"
+hash-format = "sha512"
+hash = "11060adb8aae151879e8e4db4ad5409df1044784fe9e6d6a5f4750ea778317bd37ca9129f39d23e18988b912ab036a9fb3a128761726f927ac23797dd02ed381"
 
 [update]
-[update.curseforge]
-file-id = 8507094
-project-id = 1597849
+[update.modrinth]
+mod-id = "rLJ1qF79"
+version = "lZTBRemW"
