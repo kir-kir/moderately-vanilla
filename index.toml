@@ -1777,10 +1777,6 @@ file = "config/reliable_replacer/swapper.json"
 hash = "6c941586e902a406b78dba22e72810660afeae47b319267ba464a6b7f48a0ea9"
 
 [[files]]
-file = "config/resistance_balancer.json5"
-hash = "6d2f63d32418944791e65eeb146b92fe18139cd3079f15d592564768a1cd8221"
-
-[[files]]
 file = "config/resourceful-config-web.json"
 hash = "00592126e0bc7e41f2ec617f2f1594be33d9388b0222174aeefa37998d5c5589"
 
@@ -3503,11 +3499,6 @@ metafile = true
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
 hash = "0bcceb0e1f037ee7a89d361900fd13d5e3b102aa8c616de75f28473a4d3d008b"
-metafile = true
-
-[[files]]
-file = "mods/resistance-balancer.pw.toml"
-hash = "72931ade47cb4ed0fc5cc1f7ffb7adbe84799f3cb792d290a1425cee75e941ab"
 metafile = true
 
 [[files]]
