@@ -2425,6 +2425,10 @@ file = "mods/Delightful-Backport-1.0-1.21.1-neoforge.jar"
 hash = "f4a028c16f4e7e275f1691d6567c772571d68a0d2e7b70d8074cdf5fa822a63a"
 
 [[files]]
+file = "mods/GPUBooster-NeoForge-1.21.1.jar"
+hash = "4c68afcc5994324963583855b2104346b8d8625188630889627cfdefacc14b6a"
+
+[[files]]
 file = "mods/GeophilicBackported-v1.3.3 1.21.1.jar"
 hash = "e6869edf6d91660f45d0eceb3db599161a35dcacadbf550b951d2c783f509631"
 
@@ -3105,11 +3109,6 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
-metafile = true
-
-[[files]]
-file = "mods/gpubooster-reforged.pw.toml"
-hash = "d83542de130b64eb46d8bf875016ac44e6feaad2850b18fd032b44e27a25e435"
 metafile = true
 
 [[files]]
