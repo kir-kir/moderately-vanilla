@@ -260,6 +260,55 @@ event.shaped('alloy_smelter:forge_controller_tier1', [
     B: 'minecraft:bricks',
     F: 'minecraft:furnace'
 })
+
+event.shapeless('charms:charm_base', [
+    'caverns_and_chasms:spinel', 'minecraft:string'
+])
+
+event.remove({ output: 'betterinventory:backpack_1' })
+
+event.shaped('betterinventory:backpack_1', [
+    ' S ',
+    'WCW',
+    'WWW'
+], {
+    S: 'minecraft:string',
+    W: '#minecraft:wool',
+    C: '#c:chests/wooden'
+})
+
+event.remove({ output: 'betterinventory:stack_upgrade_1' })
+
+event.shaped('betterinventory:stack_upgrade_1', [
+    'PPP',
+    'ICI',
+    'PPP'
+], {
+    P: 'minecraft:paper',
+    I: 'minecraft:iron_ingot',
+    C: '#c:chests/wooden'
+})
+
+event.shaped('minecraft:wooden_shovel', [
+    'P',
+    'S',
+    'S'
+], {
+    P: '#minecraft:planks',
+    S: '#c:rods/wooden'
+})
+
+event.remove({ output: 'betterinventory:upgrade_pickup' })
+
+event.shaped('betterinventory:upgrade_pickup', [
+    ' S ',
+    'SHS',
+    ' C '
+], {
+    S: 'minecraft:string',
+    H: 'minecraft:hopper',
+    C: '#c:chests/wooden'
+})
 })
 
 

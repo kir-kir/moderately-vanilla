@@ -1,0 +1,13 @@
+name = "Portable Mobs"
+filename = "portablemobs-1.2.1-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b487d3af24ba6e652059f70de0f09286e49798b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5717748
+project-id = 503922
