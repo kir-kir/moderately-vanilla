@@ -1089,6 +1089,10 @@ file = "config/chatimageconfig.json"
 hash = "002119066203d6815cbed85e72cec1685422fc991d0244706da5d5cab5a0883b"
 
 [[files]]
+file = "config/chloride-client.toml"
+hash = "f4ed428c850a73df4f3652024caeecddcd3b4d91da9deae05eb010587bc036a5"
+
+[[files]]
 file = "config/cirrus-client.json"
 hash = "b49fbbf3ae0cd1c7dc206f9895b63fd04affac5974acbb877ba4deeec47e5445"
 
@@ -1586,7 +1590,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/mod_menu-client.toml"
-hash = "69a66f6d853e3eb2bff9c07394caa690e544ea99e784ce55097e7385b700396a"
+hash = "2e5c984db6ad4a7c7775fbfbb75703b1a8e41d2a150f9f4cf1686853ce1900d6"
 
 [[files]]
 file = "config/modelfix-client.toml"
@@ -2717,6 +2721,11 @@ hash = "6d77c7de78856217971f9781f02459869f91951a7cc94cc673464af8392d9378"
 metafile = true
 
 [[files]]
+file = "mods/chloride.pw.toml"
+hash = "3a6a82de82d8767521b6da37d8a2bed2513e58c45e347a23e0d53803839f0a62"
+metafile = true
+
+[[files]]
 file = "mods/cirrus.pw.toml"
 hash = "6b234e8a1de1b98912b1b74a5a7a38699210f532ccbd5b11f3ba6b8aebc21fd9"
 metafile = true
@@ -3096,6 +3105,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
+metafile = true
+
+[[files]]
+file = "mods/gpubooster-reforged.pw.toml"
+hash = "d83542de130b64eb46d8bf875016ac44e6feaad2850b18fd032b44e27a25e435"
 metafile = true
 
 [[files]]
@@ -3549,6 +3563,11 @@ hash = "0bcceb0e1f037ee7a89d361900fd13d5e3b102aa8c616de75f28473a4d3d008b"
 metafile = true
 
 [[files]]
+file = "mods/renderscale.pw.toml"
+hash = "e809a40e0a2c0cdea06cfba9dbb4cb472d3b0e7a225a92470aa8e3aa3fb4ea6e"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "63798d5d5dce18e8558415ee791f0928e12ee2bb54ee342f4b81b58f523e3cb2"
 metafile = true
@@ -3591,6 +3610,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "8a0271e7d5c8f4badd2886fd9a8ca75c5a33868ac90828cf3b5dbe932025a0fa"
 metafile = true
 
 [[files]]

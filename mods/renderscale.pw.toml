@@ -1,0 +1,13 @@
+name = "RenderScale"
+filename = "renderscale-1.4.0-alpha.6-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84c4c7bb3d40fc0a02c9c67b5f38fc736ab33e49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8913237
+project-id = 1172416

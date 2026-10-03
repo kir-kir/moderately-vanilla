@@ -1,0 +1,13 @@
+name = "GPUBooster - Reforged"
+filename = "GPUBooster-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "708e5192a50bcdf94aa51561392d3f11903abe62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8794386
+project-id = 1679219
