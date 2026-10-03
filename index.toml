@@ -41,10 +41,6 @@ file = "config/additionalplacements-startup.toml"
 hash = "36a049fd9282705c097600342dd15b9747498c1bd734edb32a5deecc186cd8f1"
 
 [[files]]
-file = "config/aggroindicator-client.json"
-hash = "53abe528c21d53c2f39229f8c2858c6d14e4e49b8faa57711dcc5192ab529a99"
-
-[[files]]
 file = "config/alloy_smelter-common.toml"
 hash = "d66605d039a667da791470d976f50d5fa743a70635923aaed361cc8ef03517e1"
 
@@ -71,6 +67,10 @@ hash = "2512b9c947342813ee667013941f07c3be8323ac4cb8d3d1686dd8530c7c66b1"
 [[files]]
 file = "config/almostunified/unification/materials.json"
 hash = "09f0eda4f47d2dc321e9379b59a0f5e0c6809a51ba299ee50249e64dc7ba8943"
+
+[[files]]
+file = "config/anvilrepairing.json"
+hash = "9feb8863ae2123661e8bd675892c01c1095ce0bb12325bc776ff33a399bc05d4"
 
 [[files]]
 file = "config/appleskin-client.toml"
@@ -761,6 +761,10 @@ file = "config/better_party-common.toml"
 hash = "e5f29da0c51e553a33b5b09a39ac289aa3aac1d9d8d78e4358a9084400227405"
 
 [[files]]
+file = "config/better_party-hud.properties"
+hash = "50454542bafe3b35fdeb94de92605abaa24cb7d008b6e787733399b25c9491f2"
+
+[[files]]
 file = "config/bettercaves/README.txt"
 hash = "e6f25132180339d5b7f53c1f5473f28cdf743f76292bc8f87142e4b0300e0f2c"
 
@@ -830,7 +834,7 @@ hash = "aac18d7595f9ac106181d8812b264320cbb06d203a2cc66c763cc6e0eb91c077"
 
 [[files]]
 file = "config/biomespawnpoint/spawnbiomes.txt"
-hash = "6e299ac763f5bb71c4d77e3dc7e039eef9d9bab04b2e7456160d736a9a33a60f"
+hash = "095e92b8c6607784fa4ef2fbe6aa3aa14c4e0171a7e34fa86df30921381bbbc5"
 
 [[files]]
 file = "config/blueprint-client.toml"
@@ -1129,6 +1133,10 @@ file = "config/collective.json5"
 hash = "92809d098b5efeca95c37ec4fef9184bd169160d18efecf81f395c4030c0f83f"
 
 [[files]]
+file = "config/colossalchests-common.toml"
+hash = "7b82209b2edb449e84c5a892c2bd3629e602efe7ea660626dece294679f8b95d"
+
+[[files]]
 file = "config/connectiblechains.json"
 hash = "f50f145a15545b4d2141f43f16d15579742ab168b08f7fbbf7ac7fd92db76568"
 
@@ -1171,6 +1179,10 @@ hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
 [[files]]
 file = "config/curios-server.toml"
 hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
+file = "config/cyclopscore-common.toml"
+hash = "fede2239a8566281381e13f863d6a30a326ea4a89bca5c7b5badad75f9536fd4"
 
 [[files]]
 file = "config/defaultresources.json"
@@ -1306,7 +1318,7 @@ hash = "59a8f784524a4d3e7d972c9979e314a94df9e9a3fde8ed6aded6c951cea18d65"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "54c9fcb4e1c894a6e0e9e5d3d8296a7acb097a04c53593d631c48248afb9685e"
+hash = "3da0a61c5453197120c6eece35e9cd24fe10c6b8602566f1197f63b49b4cea4e"
 
 [[files]]
 file = "config/fancytoasts/general.json"
@@ -1430,7 +1442,7 @@ hash = "7b54261693df859be612657b6caf06829359f1b0555215d19a6513999abbaecd"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "a040a0fd73f57ecc6800c5a93eea83b75622e7cec5a2064fe790c9c740e95f1d"
+hash = "da8226ee4b011f53f43e7eb4387ca7eb86234a1f8ddff12ba74055fed6d2ba6e"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -1566,7 +1578,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/mod_menu-client.toml"
-hash = "5b2422198f871cfb5725fc0171fc7633be153de75a29610d93610481ff222efd"
+hash = "7bb15f36fd44b79ec5cf4ba1553adffa2a8843a4bcfd3ade74b75bacc659c77c"
 
 [[files]]
 file = "config/modelfix-client.toml"
@@ -1997,6 +2009,10 @@ file = "config/toastcontrol-client.toml"
 hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
 
 [[files]]
+file = "config/toms_storage-common.toml"
+hash = "a7ff87dbfa4587eda3e1aa9f8e05102bdf0e6f7961fde07a360e86c6cd69da1f"
+
+[[files]]
 file = "config/transition.json"
 hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
 
@@ -2011,6 +2027,10 @@ hash = "636bb9fe8039c9e756fc249412195ef3682ba16edb90b1d08b5011d79b4d283a"
 [[files]]
 file = "config/trender.json"
 hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "config/twemoji.json"
+hash = "9b1a4ed978081071384bdef34ddf1411a5889ffe9d68f62360f3c9bd3eac6ba8"
 
 [[files]]
 file = "config/uiquest-client.toml"
@@ -2074,7 +2094,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "bdb75b624a5d37cadd1d3e4558aae24bb12ce67cf27d832f7ede4f1bc29d7d08"
+hash = "97110726149238ca41d65f2fb366857dd4fbff33c7d970d7be66b390f9332a7b"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -2431,11 +2451,6 @@ hash = "a4e2304164d47155e9769847ae433ba42315269a916b3552d83811191e743f38"
 metafile = true
 
 [[files]]
-file = "mods/aggroindicator.pw.toml"
-hash = "7ee2f816f9c1000b46a1900c94966990f7bbf171284b736e153312c9d14589c5"
-metafile = true
-
-[[files]]
 file = "mods/alfinolib.pw.toml"
 hash = "e9863f95ed3cf645455980dcb770a6bef111170bda91e63fb17ccaa8cc98b242"
 metafile = true
@@ -2725,6 +2740,11 @@ hash = "55dc9daeb96d489b32543035fb05379ba25d1305f0dcd1c42d9322e85e20402d"
 metafile = true
 
 [[files]]
+file = "mods/colossal-chests.pw.toml"
+hash = "0160a524adfe90e80fa7b4fbb08b1bcb7aa8268124d2a7e51168bd1edfc0e3c6"
+metafile = true
+
+[[files]]
 file = "mods/common-network.pw.toml"
 hash = "e5052ab66811e9217d662d712781796c72f7105fbbc81e1de3469ccf6178d5a0"
 metafile = true
@@ -2772,6 +2792,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "b1e68d816d95a0069f69df080920cd80bc58e95a16eb07de37ff841522bc71e2"
 metafile = true
 
 [[files]]
@@ -3715,6 +3740,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "a303683e4c74640f419c31db329e9afc3ee8f388abc5c6a536dc6169c274b5c6"
 metafile = true
 
 [[files]]

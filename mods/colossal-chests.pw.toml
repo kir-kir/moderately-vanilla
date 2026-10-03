@@ -1,0 +1,13 @@
+name = "Colossal Chests"
+filename = "colossalchests-1.21.1-neoforge-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V8HM9qmm/versions/v8I5T3hr/colossalchests-1.21.1-neoforge-1.9.1.jar"
+hash-format = "sha512"
+hash = "3b86e6c2717a705708cf3c9c703e3557ceefc264c77f01231726d6df497aab55bc55f525f8082dab90f3e2dd11fe47a2b8c85a993074c9ae4ebc752c14c776fe"
+
+[update]
+[update.modrinth]
+mod-id = "V8HM9qmm"
+version = "v8I5T3hr"

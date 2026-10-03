@@ -55,7 +55,7 @@
     "caverns_and_chasms:copper_leggings",
     "caverns_and_chasms:copper_boots",
     "sulfurnitre:sulfur",
-    "sulfurnitre:sulfur_block",
+    "sulfurnitre:sulfur_block"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
